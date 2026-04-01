@@ -74,7 +74,15 @@ cd visionguard-ai
 
 # Install dependencies (requires Python 3.10+)
 pip install -r requirements.txt
+<img width="1792" height="1120" alt="Screenshot 2026-04-01 at 6 23 45 AM" src="https://github.com/user-attachments/assets/f5680bfa-614a-4fb8-92d2-6607cc236279" />
 
 # Start the VisionGuard AI Dashboard
 streamlit run app.py
 ```
+![Uploading Screenshot 2026-04-01 at 6.23.45 AM.png…]()
+<img width="1792" height="1120" alt="Screenshot 2026-04-01 at 6 27 32 AM" src="https://github.com/user-attachments/assets/94a50350-e95f-4e0a-8f11-2ba04eed4e2b" />
+<img width="1792" height="1120" alt="Screenshot 2026-04-01 at 6 27 41 AM" src="https://github.com/user-attachments/assets/61137565-3bfa-455b-92df-ad81a125<img width="1792" height="1120" alt="Screenshot 2026-04-01 at 6 28 42 AM" src="https://github.com/user-attachments/assets/9d7fef0a-0448-42ed-ad0b-7c1f4cdf070b" />
+<img width="1792" height="1120" alt="Screenshot 2026-04-01 at 6 28 38 AM" src="https://github.com/user-attachments/assets/8bf1a10b-9d42-4c14-b401-8ff4b39c8fac" />
+<img width="1792" height="1120" alt="Screenshot 2026-04-01 at 6 28 30 AM" src="https://github.com/user-attachments/assets/e7f1dd4e-a63d-4be1-a8dc-6d657397fe7c" />
+<img width="1792" height="1120" alt="Screenshot 2026-04-01 at 6 28 04 AM" src="https://github.com/user-attachments/assets/fe64fb2e-b026-47d1-8a20-ac54cc679ec2" />
+1830" />
