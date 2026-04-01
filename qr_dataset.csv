@@ -1,0 +1,1201 @@
+url,label,qr_format,context,physical_tamper_signals,tamper_confidence,is_upi,has_https,domain_trusted
+http://is.gd/airtel-cashback,1,Micro QR,Sticker pasted over original QR at shop,none,0,0,0,0
+https://paytm.com/booking?utm_source=app,0,Micro QR,Official app onboarding screen,none,0,1,1,1
+https://linkedin.com/contact?ref=home,0,QR Code,Official app onboarding screen,none,0,0,1,1
+http://v.gd/amazon-gift-claim,1,QR Code,Fake prize-claim poster at mall,"shadow_artifact,texture_discontinuity",76,0,0,0
+https://pnbindia.in/order/track?ref=home,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+http://buff.ly/irctc-cancel-refund,1,Micro QR,Sticker over original parking QR,texture_discontinuity,67,0,0,0
+https://mca.gov.in/tax/efiling?utm_source=app,0,QR Code,Cinema ticket kiosk,none,0,0,1,1
+https://nha.gov.in/order?utm_source=app,0,QR Code,Corporate ID badge,none,0,0,1,1
+https://iob.in/checkout?ref=home,0,Micro QR,Retail store POS counter,none,0,0,1,1
+https://indianbank.in/contact?utm_source=app,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+https://jio.com/account,0,QR Code,Parking meter,none,0,0,1,1
+http://amazon.net-banking.ml/kyc-update,1,Micro QR,Pamphlet distributed near ATM,none,0,0,0,0
+http://bsnl-india.biz/win-prize/claim,1,Data Matrix,Sticker pasted over original QR at shop,shadow_artifact,66,0,0,0
+https://redbus.in/checkout?utm_source=app,0,Micro QR,Parking meter,none,0,0,1,1
+http://login.update.kyc.hdfc.in.top/pay/reward,1,Micro QR,Sticker on restaurant table (original torn off),"shadow_artifact,texture_discontinuity",66,1,0,0
+https://olamoney.com/portal?utm_source=app,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+https://ixigo.com/product/12345?ref=home,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+http://razorpay-india.co.in.xyz/loan/apply,1,Micro QR,Pasted on electricity bill payment kiosk,"double_border,shadow_artifact",75,1,0,0
+https://bsnl.co.in/pnr-status?utm_source=app,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+https://icicii.loan/loan/apply,1,Micro QR,Fake government notice board sticker,"double_border,texture_discontinuity",76,0,1,0
+http://airtel-india.info/update/download,1,QR Code,WhatsApp message from unknown number,none,0,0,0,0
+https://payumoney.com/tax/efiling?utm_source=app,0,Micro QR,Hospital reception desk,none,0,1,1,1
+http://203.0.113.99/survey/complete?account=suspended&reason=kyc,1,Data Matrix,Fake courier delivery slip,none,0,0,0,0
+http://swiggy.net-banking.xyz/feedback/reward,1,Micro QR,Fake government notice board sticker,"double_border,shadow_artifact,texture_discontinuity",59,0,0,0
+http://cutt.ly/income-tax-refund,1,Micro QR,WhatsApp message from unknown number,"double_border,shadow_artifact,texture_discontinuity",58,0,0,0
+http://sb1.online/upi/disabled,1,Data Matrix,Pamphlet distributed near ATM,none,0,1,0,0
+http://bit.ly/upi-send-money,1,Data Matrix,Sticker inside public toilet payment box,"double_border,shadow_artifact,texture_discontinuity",57,1,0,0
+https://instamojo.com/pnr-status?ref=home,0,QR Code,Parking meter,none,0,0,1,1
+http://claim-hdfc.loan/secure-login?otp=required&uid=user,1,Micro QR,Fake prize-claim poster at mall,shadow_artifact,71,0,0,0
+http://otp-npci.xyz/apk/download?action=verify&token=abc123,1,Data Matrix,Sticker inside public toilet payment box,double_border,67,0,0,0
+http://tinyurl.com/gst-notice,1,Micro QR,Fake prize-claim poster at mall,none,0,0,0,0
+http://refund-flipkart.site/update/download?ref=prize&id=WIN9999,1,Micro QR,Sticker pasted over original QR at shop,"shadow_artifact,texture_discontinuity",71,0,0,0
+https://incometax.gov.in/help,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+http://172.16.0.131/cashback/get?apk=latest&version=2.1,1,Micro QR,Fake courier delivery slip,"shadow_artifact,texture_discontinuity",97,0,0,0
+https://icicibank.com/home?ref=home,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+https://tatacliq.com/cart?ref=home,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://cashfree.com/about?utm_source=app,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+http://tiny.one/paytm-reward,1,Micro QR,Poster stuck on parking meter,"double_border,shadow_artifact",79,1,0,0
+http://axis-india.loan/survey/complete,1,QR Code,Fake courier delivery slip,texture_discontinuity,95,0,0,0
+http://bit.ly/win-prize-5000,1,QR Code,Email attachment from unknown sender,none,0,0,0,0
+https://uidai.gov.in/tax/efiling?utm_source=app,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+http://77.83.172.127/refund/process?otp=required&uid=user,1,Data Matrix,Sticker pasted over original QR at shop,texture_discontinuity,79,0,0,0
+https://bankofbaroda.in/about?utm_source=app,0,Micro QR,Government office notice board,none,0,0,1,1
+http://h-dfc.work/secure-login,1,Micro QR,Sticker on restaurant table (original torn off),"double_border,texture_discontinuity",87,0,0,0
+https://airtelbank.com/checkout?utm_source=app,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+https://paytm.com/savings?utm_source=app,0,Micro QR,Hospital reception desk,none,0,1,1,1
+http://amazon.net-banking.live/cancel/ticket,1,Data Matrix,Fake soundbox sticker at kirana store,none,0,0,0,0
+https://icicibank.com/api/v1/status?utm_source=app,0,Micro QR,Corporate ID badge,none,0,0,1,1
+http://new-incometax.tk/account/suspended?apk=latest&version=2.1,1,QR Code,Fake prize-claim poster at mall,texture_discontinuity,88,0,0,0
+http://hdffc.org.in.top/emi/offer,1,QR Code,Pamphlet distributed near ATM,none,0,0,0,0
+http://tinyurl.com/apk-banking-update,1,Micro QR,Poster stuck on parking meter,shadow_artifact,90,0,0,0
+https://abhibus.com/services?ref=home,0,Micro QR,Airport check-in counter,none,0,0,1,1
+https://dunzo.com/web/home,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+https://mahadiscom.in/retail/login?ref=home,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://tinyurl.com/airtel-cashback,1,Micro QR,Email attachment from unknown sender,double_border,57,0,0,0
+http://meesho.net-banking.in.net/apk/download,1,QR Code,Pasted over hospital payment QR,none,0,0,0,0
+https://canarabank.com/personal/home?utm_source=app,0,Micro QR,Printed product packaging,none,0,0,1,1
+https://nhp.gov.in/cart,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+https://tatacliq.com/table/45,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://airtel.net-banking.click/support/chat,1,QR Code,QR code in unsolicited SMS,texture_discontinuity,55,0,0,0
+http://cutt.ly/epfo-pf-claim,1,Micro QR,Fake government notice board sticker,"shadow_artifact,texture_discontinuity",58,0,0,0
+https://instamojo.com/dashboard,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+http://certified-sbi.biz/id-proof/submit?refund=pending&bank=sbi,1,Data Matrix,Sticker on restaurant table (original torn off),texture_discontinuity,90,0,0,0
+https://app.gpay.app/netbanking,0,QR Code,Government office notice board,none,0,1,1,1
+http://t.co/flipkart-lucky,1,Micro QR,WhatsApp message from unknown number,"shadow_artifact,texture_discontinuity",83,0,0,0
+http://v.gd/aadhaar-update-now,1,Data Matrix,Poster stuck on parking meter,none,0,0,0,0
+https://bsesdelhi.com/web/home,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://epfo.net-banking.ga/apk/download,1,Micro QR,Pasted over hospital payment QR,none,0,0,0,0
+http://v.gd/otp-confirm,1,QR Code,Pasted over hospital payment QR,"shadow_artifact,texture_discontinuity",80,0,0,0
+http://goo.gl/irctc-cancel-refund,1,Data Matrix,WhatsApp message from unknown number,none,0,0,0,0
+https://unionbankofindia.co.in/about,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+http://ow.ly/sbi-kyc-alert,1,QR Code,Fake courier delivery slip,none,0,0,0,0
+http://login-hdfc.tk/account-verify?blocked=card&reason=fraud,1,Data Matrix,Pasted on electricity bill payment kiosk,"shadow_artifact,texture_discontinuity",56,0,0,0
+http://buff.ly/otp-confirm,1,QR Code,Sticker on bus stop advertisement,"double_border,shadow_artifact,texture_discontinuity",71,0,0,0
+http://login.update.kyc.irctc.in.top/netbanking/login,1,Micro QR,Fake prize-claim poster at mall,none,0,0,0,0
+http://buff.ly/win-prize-5000,1,QR Code,QR code in unsolicited SMS,shadow_artifact,69,0,0,0
+https://rapido.bike/table/45?ref=home,0,Micro QR,Airport check-in counter,none,0,0,1,1
+http://ow.ly/flipkart-lucky,1,QR Code,Sticker on bus stop advertisement,texture_discontinuity,87,0,0,0
+http://paytm-india.loan/pan-upload,1,Micro QR,Fake prize-claim poster at mall,none,0,1,0,0
+http://www.axis-portal.com/account/suspended,1,QR Code,Sticker on bus stop advertisement,none,0,0,0,0
+http://is.gd/irctc-cancel-refund,1,Data Matrix,Fake soundbox sticker at kirana store,none,0,0,0,0
+http://bsnl.net-banking.biz/win-prize/claim,1,Micro QR,Sticker pasted over original QR at shop,double_border,88,0,0,0
+https://secure.airtelbank.com/netbanking,0,Micro QR,Printed product packaging,none,0,0,1,1
+https://freecharge.in/tax/efiling?utm_source=app,0,QR Code,Airport check-in counter,none,0,0,1,1
+https://hdffc.org.in.top/emi/offer,1,QR Code,Sticker on bus stop advertisement,double_border,91,0,1,0
+https://vi.in/gst-return?utm_source=app,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+http://login.update.kyc.amazon.in.online/account-verify,1,QR Code,Sticker on restaurant table (original torn off),none,0,0,0,0
+http://s.id/gst-notice,1,Micro QR,Pasted over hospital payment QR,none,0,0,0,0
+https://uber.com/savings,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+https://dcbbank.com/netbanking?utm_source=app,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://indianbank.in/netbanking,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+https://pnbindia.in/personal/home?utm_source=app,0,QR Code,Parking meter,none,0,0,1,1
+https://apple.com/home?utm_source=app,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://hdfc-india.click/gift/redeem,1,Micro QR,Fake government notice board sticker,"shadow_artifact,texture_discontinuity",77,0,0,0
+http://sbi.net-banking.store/update/download,1,QR Code,Poster stuck on parking meter,"double_border,shadow_artifact,texture_discontinuity",83,0,0,0
+http://phonepe.net-banking.work/pay/reward,1,Data Matrix,Sticker over original parking QR,"double_border,texture_discontinuity",73,1,0,0
+https://microsoft.com/credit-card?ref=home,0,QR Code,Restaurant menu table tent,none,0,0,1,1
+https://ixigo.com/portal,0,QR Code,Restaurant menu table tent,none,0,0,1,1
+https://bandhanbank.com/tax/efiling,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+http://evil-domain.xyz@indianbank.in/booking/verify,1,Micro QR,Sticker on bus stop advertisement,none,0,0,0,0
+https://yatra.com/faq?utm_source=app,0,QR Code,Loyalty card mailer,none,0,0,1,1
+https://5bi.site/app/install,1,QR Code,Fake government notice board sticker,none,0,0,1,0
+http://91.108.4.202/secure-login?account=suspended&reason=kyc,1,Data Matrix,Sticker on restaurant table (original torn off),none,0,0,0,0
+https://amazonpay.in/reservations?ref=home,0,QR Code,Parking meter,none,0,1,1,1
+https://paypal.com/gst-return?utm_source=app,0,QR Code,Supermarket self-checkout,none,0,1,1,1
+http://s.id/paytm-reward,1,Data Matrix,Pasted over hospital payment QR,double_border,86,1,0,0
+http://buff.ly/3xYzAb,1,QR Code,Fake government notice board sticker,double_border,87,0,0,0
+https://www.github.com/order/track,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+http://bit.ly/paytm-reward,1,Micro QR,Fake government notice board sticker,"shadow_artifact,texture_discontinuity",74,1,0,0
+http://s.id/free-recharge,1,Micro QR,Sticker pasted over original QR at shop,"shadow_artifact,texture_discontinuity",79,0,0,0
+http://is.gd/sbi-kyc-alert,1,Data Matrix,Pamphlet distributed near ATM,none,0,0,0,0
+http://bit.ly/epfo-pf-claim,1,Data Matrix,Sticker over original parking QR,texture_discontinuity,84,0,0,0
+http://login.update.kyc.npci.in.ml/win-prize/claim,1,Micro QR,QR code in unsolicited SMS,double_border,64,0,0,0
+https://icicibank.com/upi-faqs?ref=home,0,Micro QR,Printed product packaging,none,0,1,1,1
+https://bhimupi.org.in/offers/today,0,QR Code,Parking meter,none,0,1,1,1
+http://zomato-india.cf/wallet/topup,1,QR Code,Poster stuck on parking meter,double_border,82,0,0,0
+http://buff.ly/upi-send-money,1,Micro QR,Pasted over hospital payment QR,none,0,1,0,0
+https://relianceretail.com/retail/login?utm_source=app,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+http://user:pass@makemytrip.com.fake.top/aadhaar-verify,1,QR Code,Pasted over hospital payment QR,double_border,93,0,0,0
+https://zomato.com/sale/diwali?utm_source=app,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+https://sbi-online.gq/cashback/get,1,Micro QR,Sticker on restaurant table (original torn off),none,0,0,1,0
+http://www.swiggy-portal.com/refund/process,1,Data Matrix,QR code in unsolicited SMS,"double_border,texture_discontinuity",70,0,0,0
+https://bankofindia.co.in/pay?ref=home,0,Micro QR,Bus/railway ticket window,none,0,1,1,1
+https://bankofindia.co.in/web/home,0,QR Code,Hotel check-in desk,none,0,0,1,1
+https://nha.gov.in/contact?ref=home,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+https://abhibus.com/checkout?utm_source=app,0,QR Code,Restaurant menu table tent,none,0,0,1,1
+http://zomato-official.in/upi/disabled,1,Data Matrix,Fake government notice board sticker,"double_border,texture_discontinuity",81,1,0,0
+http://goo.gl/loan-approved-click,1,Data Matrix,Fake prize-claim poster at mall,double_border,71,0,0,0
+http://bsnl.net-banking.loan/kyc/aadhaar,1,QR Code,Poster stuck on parking meter,double_border,62,0,0,0
+https://gst.gov.in/web/home?ref=home,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+http://tinyurl.com/3xYzAb,1,Micro QR,WhatsApp message from unknown number,"double_border,shadow_artifact,texture_discontinuity",71,0,0,0
+http://tiny.one/aadhaar-update-now,1,Data Matrix,Fake government notice board sticker,"shadow_artifact,texture_discontinuity",97,0,0,0
+http://ow.ly/irctc-cancel-refund,1,QR Code,Pasted over hospital payment QR,none,0,0,0,0
+https://npci.org.in/savings?utm_source=app,0,QR Code,Restaurant menu table tent,none,0,0,1,1
+https://jio.com/profile?utm_source=app,0,QR Code,Hotel check-in desk,none,0,0,1,1
+http://nykaa.net-banking.net.in/gift/redeem,1,QR Code,Sticker pasted over original QR at shop,"double_border,texture_discontinuity",66,0,0,0
+https://bankofbaroda.in/tax/efiling?utm_source=app,0,QR Code,Bus/railway ticket window,none,0,0,1,1
+https://bsnl.co.in/credit-card,0,QR Code,Parking meter,none,0,0,1,1
+http://t.co/airtel-cashback,1,Data Matrix,Sticker on bus stop advertisement,none,0,0,0,0
+https://freecharge.in/portal?utm_source=app,0,Micro QR,Hospital reception desk,none,0,0,1,1
+https://bsesdelhi.com/savings?utm_source=app,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+http://gpay.net-banking.work/otp-confirm,1,Data Matrix,Pamphlet distributed near ATM,"shadow_artifact,texture_discontinuity",67,1,0,0
+https://uidai.gov.in/merchant,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://idbibank.com/gst-return?ref=home,0,QR Code,Government office notice board,none,0,0,1,1
+https://sbi.co.in/pay?ref=home,0,Micro QR,Bank branch ATM lobby,none,0,1,1,1
+http://t.co/paytm-reward,1,Data Matrix,Fake prize-claim poster at mall,none,0,1,0,0
+http://ow.ly/income-tax-refund,1,QR Code,Pasted over hospital payment QR,texture_discontinuity,79,0,0,0
+http://sbi-india.pw/warning/action,1,Micro QR,WhatsApp message from unknown number,"double_border,shadow_artifact,texture_discontinuity",97,0,0,0
+https://nhp.gov.in/pay,0,Micro QR,Cinema ticket kiosk,none,0,1,1,1
+http://short.gy/win-prize-5000,1,QR Code,Sticker on restaurant table (original torn off),none,0,0,0,0
+https://kotak.com/checkout?ref=home,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://blinkit.com/services?utm_source=app,0,QR Code,Official app onboarding screen,none,0,0,1,1
+https://umang.gov.in/product/12345,0,QR Code,Bus/railway ticket window,none,0,0,1,1
+https://mobikwik.com/contact?utm_source=app,0,Micro QR,Corporate ID badge,none,0,0,1,1
+https://centralbankschet.in/web/home?utm_source=app,0,QR Code,Bus/railway ticket window,none,0,0,1,1
+https://incometax.gov.in/faq?ref=home,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+https://github.com/pnr-status,0,QR Code,Bus/railway ticket window,none,0,0,1,1
+https://airtelbank.com/offers/today,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+https://uidai.gov.in/offers/today,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://v.gd/free-recharge,1,QR Code,Fake prize-claim poster at mall,texture_discontinuity,64,0,0,0
+http://trusted-gpay.xyz/id-proof/submit?account=suspended&reason=kyc,1,Data Matrix,Sticker over original parking QR,none,0,1,0,0
+https://amazon.in/dashboard,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+http://t.co/hdfc-verify-now,1,Micro QR,Sticker inside public toilet payment box,none,0,0,0,0
+http://airtel-india.live/loan/apply,1,Data Matrix,Sticker on restaurant table (original torn off),none,0,0,0,0
+https://paytm-upi.co.in.xyz/account/suspended,1,Micro QR,Fake prize-claim poster at mall,double_border,75,1,1,0
+http://goo.gl/paytm-reward,1,Data Matrix,Sticker over original parking QR,none,0,1,0,0
+https://uber.com/savings?ref=home,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+https://sbi.co.in/api/v1/status,0,Micro QR,Airport check-in counter,none,0,0,1,1
+https://dunzo.com/credit-card?ref=home,0,Micro QR,Printed product packaging,none,0,0,1,1
+https://meesho.com/help?utm_source=app,0,QR Code,Airport check-in counter,none,0,0,1,1
+http://tinyurl.com/win-prize-5000,1,QR Code,QR code in unsolicited SMS,none,0,0,0,0
+http://rb.gy/flipkart-lucky,1,Data Matrix,Fake soundbox sticker at kirana store,none,0,0,0,0
+https://olamoney.com/reservations?utm_source=app,0,QR Code,Loyalty card mailer,none,0,0,1,1
+http://fl1pkar7.site/wallet/topup,1,Data Matrix,Sticker over original parking QR,none,0,0,0,0
+http://reward-icici.in.net/upi/disabled?blocked=card&reason=fraud,1,Data Matrix,Sticker inside public toilet payment box,texture_discontinuity,70,1,0,0
+https://bigbasket.com/about,0,QR Code,Retail store POS counter,none,0,0,1,1
+http://185.220.101.210/card/blocked?session=expired&relogin=1,1,Data Matrix,Poster stuck on parking meter,none,0,0,0,0
+http://cancel-sbi.org.in.top/cashback/get?reward=5000&claim=now,1,Data Matrix,Pasted over hospital payment QR,shadow_artifact,57,0,0,0
+https://bsnl.co.in/tax/efiling?ref=home,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+http://login-jio.ga/upi/disabled?otp=required&uid=user,1,QR Code,Pasted over hospital payment QR,"double_border,shadow_artifact",80,1,0,0
+https://gst.gov.in/reservations,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+http://alert-razorpay.ga/pan-upload?otp=required&uid=user,1,Data Matrix,Fake soundbox sticker at kirana store,shadow_artifact,86,1,0,0
+http://bit.ly/gst-notice,1,Micro QR,Pamphlet distributed near ATM,shadow_artifact,72,0,0,0
+https://msedcl.com/contact,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+https://goibibo.com/portal?ref=home,0,QR Code,Official app onboarding screen,none,0,0,1,1
+https://dcbbank.com/merchant?ref=home,0,QR Code,Retail store POS counter,none,0,0,1,1
+https://redbus.in/services?ref=home,0,Micro QR,Hospital reception desk,none,0,0,1,1
+http://gpay-official.in/support/chat,1,Data Matrix,Email attachment from unknown sender,double_border,79,1,0,0
+https://1cici.ga/recharge/free,1,QR Code,Fake soundbox sticker at kirana store,"double_border,shadow_artifact,texture_discontinuity",86,0,1,0
+http://trusted-airtel.ml/pay/reward?apk=latest&version=2.1,1,Data Matrix,Fake government notice board sticker,none,0,1,0,0
+http://offer-flipkart.co.in.xyz/document/upload?otp=required&uid=user,1,Data Matrix,Fake courier delivery slip,none,0,0,0,0
+https://india.gov.in/portal?ref=home,0,Micro QR,Printed product packaging,none,0,0,1,1
+https://bigbasket.com/deals?utm_source=app,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+https://retail.zomato.com/settings,0,QR Code,Printed product packaging,none,0,0,1,1
+http://ow.ly/paytm-reward,1,Micro QR,QR code in unsolicited SMS,"double_border,texture_discontinuity",97,1,0,0
+https://flipkart.com/order/track,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+https://vi.in/product/12345?ref=home,0,QR Code,Restaurant menu table tent,none,0,0,1,1
+https://paytm.com/sale/diwali?ref=home,0,Micro QR,Corporate ID badge,none,0,1,1,1
+http://v.gd/income-tax-refund,1,QR Code,Pasted on electricity bill payment kiosk,texture_discontinuity,67,0,0,0
+https://jio.com/home?ref=home,0,Micro QR,Parking meter,none,0,0,1,1
+https://bigbasket.com/order?utm_source=app,0,QR Code,Printed product packaging,none,0,0,1,1
+http://zomatto.top/booking/verify,1,QR Code,Sticker on restaurant table (original torn off),"shadow_artifact,texture_discontinuity",91,0,0,0
+https://umang.gov.in/home?ref=home,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+https://mobikwik.com/pay?ref=home,0,QR Code,Hospital reception desk,none,0,1,1,1
+https://makemytrip.com/deals?utm_source=app,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+http://epfo-india.xyz/pan-upload,1,QR Code,Sticker inside public toilet payment box,none,0,0,0,0
+http://short.gy/3xYzAb,1,QR Code,Fake soundbox sticker at kirana store,none,0,0,0,0
+http://encrypted-zomato.work/card/blocked?account=suspended&reason=kyc,1,Data Matrix,Sticker inside public toilet payment box,none,0,0,0,0
+https://bsnl.co.in/reservations?utm_source=app,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://nykaa.com/profile,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+http://short.gy/emi-offer,1,Data Matrix,WhatsApp message from unknown number,none,0,0,0,0
+http://goo.gl/free-recharge,1,Data Matrix,Fake government notice board sticker,none,0,0,0,0
+http://cutt.ly/amazon-gift-claim,1,Micro QR,Fake government notice board sticker,none,0,0,0,0
+http://nykaa-official.in/pay/reward,1,Data Matrix,Fake courier delivery slip,double_border,72,1,0,0
+https://nhp.gov.in/?utm_source=app,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+https://idbibank.com/web/home,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+https://redbus.in/upi-faqs?utm_source=app,0,Micro QR,Restaurant menu table tent,none,0,1,1,1
+https://uber.com/credit-card?utm_source=app,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+http://icic1.pw/otp-confirm,1,Data Matrix,Sticker pasted over original QR at shop,texture_discontinuity,82,0,0,0
+https://hdfcbank.com/pay?ref=home,0,Micro QR,Loyalty card mailer,none,0,1,1,1
+http://91.108.4.123/emi/offer?account=suspended&reason=kyc,1,QR Code,Pamphlet distributed near ATM,"shadow_artifact,texture_discontinuity",69,0,0,0
+http://meesho-official.in/rate/earn,1,Data Matrix,Sticker inside public toilet payment box,"double_border,shadow_artifact",74,0,0,0
+http://s.id/airtel-cashback,1,Micro QR,Email attachment from unknown sender,none,0,0,0,0
+http://rb.gy/sbi-kyc-alert,1,Micro QR,Fake soundbox sticker at kirana store,"double_border,texture_discontinuity",84,0,0,0
+http://login.update.kyc.meesho.in.pw/aadhaar-verify,1,QR Code,Sticker inside public toilet payment box,shadow_artifact,83,0,0,0
+http://npci.net-banking.live/app/install,1,Data Matrix,Pamphlet distributed near ATM,"double_border,texture_discontinuity",82,0,0,0
+http://account-swiggy.store/booking/verify?kyc=pending&deadline=today,1,QR Code,Sticker pasted over original QR at shop,"double_border,shadow_artifact",59,0,0,0
+https://canarabank.com/personal/home,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+https://myntra.com/web/home,0,QR Code,Printed product packaging,none,0,0,1,1
+https://magicpin.in/checkout?utm_source=app,0,Micro QR,Retail store POS counter,none,0,0,1,1
+http://epfo-secure-verify-otp-update.org.in.top/feedback/reward/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,1,Micro QR,Fake government notice board sticker,none,0,0,0,0
+http://paytem.store/account-verify,1,Data Matrix,Fake soundbox sticker at kirana store,"double_border,texture_discontinuity",64,1,0,0
+http://support-phonepe.click/feedback/reward?session=expired&relogin=1,1,QR Code,Sticker pasted over original QR at shop,double_border,84,0,0,0
+http://is.gd/loan-approved-click,1,Micro QR,Fake courier delivery slip,"double_border,shadow_artifact",82,0,0,0
+https://linkedin.com/deals?utm_source=app,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+https://yatra.com/order/track,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+https://linkedin.com/help?utm_source=app,0,QR Code,Corporate ID badge,none,0,0,1,1
+http://suspend-amazon.ml/card/blocked?action=verify&token=abc123,1,Data Matrix,Fake soundbox sticker at kirana store,none,0,0,0,0
+http://icici.net-banking.org.in.top/id-proof/submit,1,Micro QR,Sticker inside public toilet payment box,none,0,0,0,0
+http://axis-india.work/warning/action,1,QR Code,QR code in unsolicited SMS,double_border,72,0,0,0
+http://tiny.one/epfo-pf-claim,1,QR Code,Pasted over hospital payment QR,texture_discontinuity,69,0,0,0
+http://is.gd/income-tax-refund,1,Micro QR,Email attachment from unknown sender,texture_discontinuity,63,0,0,0
+http://91.108.4.204/update/download?otp=required&uid=user,1,QR Code,Email attachment from unknown sender,double_border,60,0,0,0
+https://umang.gov.in/order?ref=home,0,QR Code,Airport check-in counter,none,0,0,1,1
+https://paypal.com/offers/today,0,QR Code,Airport check-in counter,none,0,1,1,1
+https://blinkit.com/reservations?utm_source=app,0,QR Code,Printed product packaging,none,0,0,1,1
+https://apple.com/upi-faqs,0,QR Code,Bus/railway ticket window,none,0,1,1,1
+http://login.update.kyc.epfo.in.in.net/booking/verify,1,QR Code,Email attachment from unknown sender,"double_border,shadow_artifact",91,0,0,0
+https://goibibo.com/personal/home,0,Micro QR,Government office notice board,none,0,0,1,1
+https://ixigo.com/contact?ref=home,0,Micro QR,Hospital reception desk,none,0,0,1,1
+http://is.gd/emi-offer,1,QR Code,Pamphlet distributed near ATM,double_border,60,0,0,0
+https://zomato.com/retail/login?ref=home,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+https://incometax.gov.in/netbanking,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+http://tinyurl.com/epfo-pf-claim,1,Micro QR,Pasted over hospital payment QR,"shadow_artifact,texture_discontinuity",75,0,0,0
+http://t.co/otp-confirm,1,Micro QR,Poster stuck on parking meter,"double_border,shadow_artifact,texture_discontinuity",83,0,0,0
+http://zomato.net-banking.online/card/blocked,1,Data Matrix,Fake courier delivery slip,"double_border,shadow_artifact",57,0,0,0
+https://cashfree.com/account?utm_source=app,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+http://swiggy.net-banking.pw/care/ticket,1,Micro QR,Fake soundbox sticker at kirana store,"shadow_artifact,texture_discontinuity",75,0,0,0
+http://rb.gy/loan-approved-click,1,QR Code,Pasted over hospital payment QR,"shadow_artifact,texture_discontinuity",81,0,0,0
+https://abhibus.com/account,0,QR Code,Bus/railway ticket window,none,0,0,1,1
+https://relianceretail.com/gst-return,0,QR Code,Loyalty card mailer,none,0,0,1,1
+https://magicpin.in/personal/home,0,QR Code,Airport check-in counter,none,0,0,1,1
+https://tatacliq.com/credit-card,0,QR Code,Official app onboarding screen,none,0,0,1,1
+http://gpay-india.click/notice/compliance,1,Data Matrix,Email attachment from unknown sender,none,0,1,0,0
+http://goo.gl/hdfc-verify-now,1,Data Matrix,Sticker on bus stop advertisement,double_border,64,0,0,0
+http://tiny.one/vi-reward,1,Micro QR,Pasted on electricity bill payment kiosk,double_border,93,0,0,0
+http://rb.gy/irctc-cancel-refund,1,Data Matrix,Poster stuck on parking meter,"double_border,shadow_artifact,texture_discontinuity",94,0,0,0
+https://cesc.co.in/account,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://lucky-meesho.ga/care/ticket?ref=prize&id=WIN9999,1,Micro QR,Sticker on restaurant table (original torn off),double_border,82,0,0,0
+http://is.gd/upi-send-money,1,QR Code,Pamphlet distributed near ATM,none,0,1,0,0
+https://freecharge.in/booking?utm_source=app,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+http://goo.gl/gst-notice,1,Micro QR,Fake courier delivery slip,none,0,0,0,0
+http://www.meesho-portal.com/rate/earn,1,Data Matrix,Email attachment from unknown sender,"double_border,texture_discontinuity",74,0,0,0
+https://airtel.in/pay?ref=home,0,QR Code,Corporate ID badge,none,0,1,1,1
+https://m.goibibo.com/credit-card,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+http://is.gd/apk-banking-update,1,Data Matrix,Sticker on restaurant table (original torn off),none,0,0,0,0
+http://tiny.one/win-prize-5000,1,Micro QR,Poster stuck on parking meter,shadow_artifact,75,0,0,0
+https://olamoney.com/cart,0,QR Code,Printed product packaging,none,0,0,1,1
+http://bank-airtel.top/update/download?kyc=pending&deadline=today,1,Micro QR,Fake soundbox sticker at kirana store,"double_border,shadow_artifact,texture_discontinuity",87,0,0,0
+https://freecharge.in/reservations?utm_source=app,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+https://cleartrip.com/account,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+https://yatra.com/checkout?utm_source=app,0,QR Code,Corporate ID badge,none,0,0,1,1
+http://tiny.one/otp-confirm,1,Data Matrix,Fake prize-claim poster at mall,"double_border,shadow_artifact",93,0,0,0
+https://stackoverflow.com/tax/efiling?ref=home,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+https://magicpin.in/pnr-status?utm_source=app,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+http://tinyurl.com/paytm-reward,1,Data Matrix,Sticker on restaurant table (original torn off),texture_discontinuity,83,1,0,0
+https://jio.com/cart?ref=home,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+https://ajio.com/sale/diwali,0,Micro QR,Corporate ID badge,none,0,0,1,1
+http://goo.gl/sbi-kyc-alert,1,Data Matrix,Fake soundbox sticker at kirana store,"double_border,shadow_artifact",92,0,0,0
+http://airtel-secure-verify-otp-update.org.in.top/kyc-update/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,1,Data Matrix,Email attachment from unknown sender,double_border,75,0,0,0
+https://centralbankschet.in/savings?ref=home,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+http://buff.ly/jio-recharge-free,1,Micro QR,Fake soundbox sticker at kirana store,"double_border,shadow_artifact,texture_discontinuity",95,0,0,0
+https://abhibus.com/api/v1/status?ref=home,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+https://nhp.gov.in/order?utm_source=app,0,QR Code,Parking meter,none,0,0,1,1
+http://s.id/jio-recharge-free,1,QR Code,Sticker inside public toilet payment box,none,0,0,0,0
+http://www.zomato-portal.com/upi/disabled,1,Micro QR,Sticker pasted over original QR at shop,double_border,56,1,0,0
+https://ixigo.com/upi-faqs,0,QR Code,Bank branch ATM lobby,none,0,1,1,1
+http://v.gd/upi-send-money,1,QR Code,Pasted over hospital payment QR,none,0,1,0,0
+https://canarabank.com/order/track,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+https://jiopay.in/table/45?utm_source=app,0,Micro QR,Parking meter,none,0,1,1,1
+https://bigbasket.com/services,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+https://abhibus.com/upi-faqs,0,Micro QR,Restaurant menu table tent,none,0,1,1,1
+http://flipkart-india.work/pay/reward,1,QR Code,Fake government notice board sticker,"shadow_artifact,texture_discontinuity",77,1,0,0
+http://cutt.ly/aadhaar-update-now,1,QR Code,Fake government notice board sticker,double_border,74,0,0,0
+https://mobikwik.com/about?ref=home,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+https://airtelbank.com/dashboard,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+http://185.220.101.225/win-prize/claim?session=expired&relogin=1,1,QR Code,Fake courier delivery slip,none,0,0,0,0
+https://magicpin.in/portal?ref=home,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+http://pay-meesho.top/support/chat?session=expired&relogin=1,1,QR Code,Sticker over original parking QR,shadow_artifact,61,1,0,0
+http://jio.net-banking.live/care/ticket,1,Data Matrix,Email attachment from unknown sender,"double_border,shadow_artifact",68,0,0,0
+http://77.83.172.178/card/blocked?refund=pending&bank=sbi,1,QR Code,Pamphlet distributed near ATM,none,0,0,0,0
+http://meesho-india.click/account-verify,1,QR Code,WhatsApp message from unknown number,none,0,0,0,0
+https://digitalindia.gov.in/web/home?ref=home,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+http://short.gy/aadhaar-update-now,1,Data Matrix,Poster stuck on parking meter,none,0,0,0,0
+https://mobikwik.com/savings,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+https://ajio.com/account?ref=home,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+http://ow.ly/loan-approved-click,1,Micro QR,Sticker pasted over original QR at shop,shadow_artifact,64,0,0,0
+https://swiggy.com/api/v1/status,0,Micro QR,Hospital reception desk,none,0,0,1,1
+https://cesc.co.in/contact,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+https://jiomart.com/savings?ref=home,0,QR Code,Parking meter,none,0,0,1,1
+http://prize-phonepe.org.in.top/pan-upload?survey=complete&earn=500,1,Micro QR,Fake government notice board sticker,none,0,0,0,0
+https://incometax.gov.in/product/12345?ref=home,0,QR Code,Cinema ticket kiosk,none,0,0,1,1
+https://npci.org.in/about,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+http://update-epfo.site/upi/disabled?ref=prize&id=WIN9999,1,Micro QR,Pasted over hospital payment QR,shadow_artifact,62,1,0,0
+http://meesho.net-banking.click/account-verify,1,QR Code,Email attachment from unknown sender,double_border,60,0,0,0
+https://dcbbank.com/faq,0,QR Code,Parking meter,none,0,0,1,1
+https://yatra.com/services,0,QR Code,Printed product packaging,none,0,0,1,1
+https://nykaa.com/web/home?utm_source=app,0,Micro QR,Government office notice board,none,0,0,1,1
+http://t.co/gst-notice,1,Micro QR,Fake prize-claim poster at mall,double_border,59,0,0,0
+https://epfindia.gov.in/api/v1/status?utm_source=app,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+http://bit.ly/aadhaar-update-now,1,Data Matrix,Fake soundbox sticker at kirana store,none,0,0,0,0
+https://phonepee.xyz/apk/download,1,Micro QR,Fake government notice board sticker,"double_border,shadow_artifact,texture_discontinuity",91,0,1,0
+http://uidai.net-banking.biz/cashback/get,1,Data Matrix,Pamphlet distributed near ATM,texture_discontinuity,70,0,0,0
+https://dunzo.com/settings?ref=home,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+https://relianceretail.com/services?ref=home,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+http://tiny.one/apk-banking-update,1,Micro QR,Fake government notice board sticker,shadow_artifact,84,0,0,0
+http://tinyurl.com/emi-offer,1,QR Code,Fake government notice board sticker,none,0,0,0,0
+http://bit.ly/sbi-kyc-alert,1,Micro QR,Fake soundbox sticker at kirana store,none,0,0,0,0
+https://z0mato.info/loan/apply,1,Data Matrix,Fake courier delivery slip,none,0,0,1,0
+http://t.co/irctc-cancel-refund,1,QR Code,Pasted on electricity bill payment kiosk,"double_border,shadow_artifact",74,0,0,0
+https://cesc.co.in/savings?utm_source=app,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+https://olamoney.com/order?ref=home,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+http://axis-india.work/feedback/reward,1,Data Matrix,Pasted on electricity bill payment kiosk,shadow_artifact,76,0,0,0
+https://jiomart.com/pay?utm_source=app,0,QR Code,Petrol pump payment terminal,none,0,1,1,1
+https://axisbank.com/web/home,0,Micro QR,Retail store POS counter,none,0,0,1,1
+https://goibibo.com/web/home,0,Micro QR,Parking meter,none,0,0,1,1
+https://cesc.co.in/credit-card?ref=home,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+http://fl1pkart.store/kyc-update,1,Micro QR,Sticker over original parking QR,"double_border,shadow_artifact",73,0,0,0
+https://indusind.com/tax/efiling?ref=home,0,QR Code,Corporate ID badge,none,0,0,1,1
+https://icicibank.com/web/home?utm_source=app,0,Micro QR,Government office notice board,none,0,0,1,1
+http://ow.ly/3xYzAb,1,QR Code,Pasted over hospital payment QR,texture_discontinuity,82,0,0,0
+http://buff.ly/emi-offer,1,QR Code,Pamphlet distributed near ATM,none,0,0,0,0
+https://meesho.com/tax/efiling,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+https://apple.com/netbanking,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+http://192.168.1.203/customer/helpdesk?survey=complete&earn=500,1,QR Code,Sticker inside public toilet payment box,"double_border,texture_discontinuity",95,0,0,0
+http://claim-flipkart.ga/cancel/ticket?blocked=card&reason=fraud,1,Data Matrix,Pasted over hospital payment QR,double_border,91,0,0,0
+http://short.gy/upi-send-money,1,Micro QR,Poster stuck on parking meter,"shadow_artifact,texture_discontinuity",69,1,0,0
+https://nykaa.com/order/track,0,Micro QR,Corporate ID badge,none,0,0,1,1
+http://incometax.net-banking.store/netbanking/login,1,Data Matrix,Pasted over hospital payment QR,none,0,0,0,0
+http://p4ytm.cf/warning/action,1,QR Code,Pasted on electricity bill payment kiosk,double_border,75,0,0,0
+http://customer-nykaa.work/booking/verify?reward=5000&claim=now,1,Micro QR,Poster stuck on parking meter,"double_border,texture_discontinuity",92,0,0,0
+https://hdfcbank.com/cart?utm_source=app,0,Micro QR,Retail store POS counter,none,0,0,1,1
+https://amazonpay.in/api/v1/status?utm_source=app,0,QR Code,Cinema ticket kiosk,none,0,1,1,1
+https://meesho.com/contact?utm_source=app,0,Micro QR,Printed product packaging,none,0,0,1,1
+http://buff.ly/income-tax-refund,1,QR Code,WhatsApp message from unknown number,none,0,0,0,0
+https://uber.com/help?ref=home,0,QR Code,Hotel check-in desk,none,0,0,1,1
+https://india.gov.in/netbanking?ref=home,0,QR Code,Hotel check-in desk,none,0,0,1,1
+http://v.gd/vi-reward,1,Micro QR,Fake soundbox sticker at kirana store,"shadow_artifact,texture_discontinuity",71,0,0,0
+http://bit.ly/otp-confirm,1,Micro QR,Poster stuck on parking meter,none,0,0,0,0
+https://bigbasket.com/sale/diwali?ref=home,0,Micro QR,Hospital reception desk,none,0,0,1,1
+https://cashfree.com/personal/home,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+http://user:pass@umang.gov.in.fake.top/kyc-update,1,Data Matrix,QR code in unsolicited SMS,texture_discontinuity,73,0,0,0
+https://flipkart.com/sale/diwali?ref=home,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+https://flipkart.com/services?utm_source=app,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+https://india.gov.in/?utm_source=app,0,QR Code,Loyalty card mailer,none,0,0,1,1
+https://bhimupi.org.in/contact?ref=home,0,QR Code,Hotel check-in desk,none,0,1,1,1
+http://trusted-jio.in.net/wallet/topup?survey=complete&earn=500,1,Data Matrix,Sticker on bus stop advertisement,none,0,0,0,0
+http://otp-paytm.biz/upi/claim?account=suspended&reason=kyc,1,Micro QR,Fake soundbox sticker at kirana store,"double_border,shadow_artifact,texture_discontinuity",84,1,0,0
+https://passport.gov.in/booking?ref=home,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+http://icici-india.online/kyc-update,1,Micro QR,QR code in unsolicited SMS,"double_border,shadow_artifact",65,0,0,0
+https://airtelbank.com/sale/diwali?ref=home,0,Micro QR,Government office notice board,none,0,0,1,1
+https://m.myntra.com/gst-return,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+https://epfindia.gov.in/help?utm_source=app,0,QR Code,Airport check-in counter,none,0,0,1,1
+http://rb.gy/gst-notice,1,QR Code,WhatsApp message from unknown number,"shadow_artifact,texture_discontinuity",59,0,0,0
+https://flipkart.com/?utm_source=app,0,QR Code,Bus/railway ticket window,none,0,0,1,1
+http://www.gpay-portal.com/support/chat,1,QR Code,Sticker pasted over original QR at shop,shadow_artifact,86,1,0,0
+https://unionbankofindia.co.in/help?ref=home,0,QR Code,Airport check-in counter,none,0,0,1,1
+https://goibibo.com/retail/login?utm_source=app,0,Micro QR,Retail store POS counter,none,0,0,1,1
+https://dunzo.com/cart,0,QR Code,Restaurant menu table tent,none,0,0,1,1
+http://care-razorpay.click/credit/approve?refund=pending&bank=sbi,1,Data Matrix,Sticker on restaurant table (original torn off),none,0,1,0,0
+http://is.gd/free-recharge,1,QR Code,Sticker pasted over original QR at shop,shadow_artifact,68,0,0,0
+https://magicpin.in/api/v1/status,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+https://cesc.co.in/tax/efiling?utm_source=app,0,QR Code,Airport check-in counter,none,0,0,1,1
+http://offer-paytm.net.in/emi/offer?otp=required&uid=user,1,Data Matrix,Fake government notice board sticker,"shadow_artifact,texture_discontinuity",60,1,0,0
+https://goibibo.com/about?utm_source=app,0,QR Code,Airport check-in counter,none,0,0,1,1
+https://npci.org.in/credit-card,0,Micro QR,Parking meter,none,0,0,1,1
+http://evil-domain.xyz@swiggy.com/apk/download,1,Data Matrix,Fake government notice board sticker,texture_discontinuity,79,0,0,0
+https://digilocker.gov.in/checkout,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://cutt.ly/gst-notice,1,Micro QR,Fake prize-claim poster at mall,double_border,63,0,0,0
+http://buff.ly/paytm-reward,1,Data Matrix,WhatsApp message from unknown number,none,0,1,0,0
+http://upi-irctc.cf/wallet/topup?survey=complete&earn=500,1,QR Code,Sticker inside public toilet payment box,none,0,1,0,0
+https://dcbbank.com/booking?utm_source=app,0,QR Code,Airport check-in counter,none,0,0,1,1
+https://ajio.com/deals,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+https://relianceretail.com/order/track,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+http://account-razorpay.net.in/wallet/topup?refund=pending&bank=sbi,1,QR Code,Pasted over hospital payment QR,"double_border,shadow_artifact,texture_discontinuity",80,1,0,0
+https://ixigo.com/services?utm_source=app,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+https://yatra.com/dashboard,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+https://stackoverflow.com/sale/diwali?utm_source=app,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+http://buff.ly/flipkart-lucky,1,Micro QR,Sticker on bus stop advertisement,"double_border,texture_discontinuity",92,0,0,0
+http://rb.gy/otp-confirm,1,QR Code,QR code in unsolicited SMS,none,0,0,0,0
+http://razorpay-india.ga/kyc-update,1,Micro QR,Poster stuck on parking meter,none,0,1,0,0
+http://bit.ly/apk-banking-update,1,Data Matrix,Fake prize-claim poster at mall,shadow_artifact,70,0,0,0
+https://epfindia.gov.in/faq?ref=home,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://is.gd/paytm-reward,1,QR Code,WhatsApp message from unknown number,"double_border,texture_discontinuity",82,1,0,0
+https://meesho.com/about?ref=home,0,QR Code,Official app onboarding screen,none,0,0,1,1
+https://bankofbaroda.in/restaurant/menu?utm_source=app,0,QR Code,Cinema ticket kiosk,none,0,0,1,1
+https://nhp.gov.in/offers/today?utm_source=app,0,QR Code,Cinema ticket kiosk,none,0,0,1,1
+http://secure-irctc.top/pay/reward?apk=latest&version=2.1,1,Data Matrix,Pamphlet distributed near ATM,"double_border,shadow_artifact,texture_discontinuity",57,1,0,0
+http://amaz0n.site/netbanking/login,1,Data Matrix,Fake courier delivery slip,"shadow_artifact,texture_discontinuity",78,0,0,0
+https://paytm.com/order?utm_source=app,0,Micro QR,Cinema ticket kiosk,none,0,1,1,1
+https://unionbankofindia.co.in/about?utm_source=app,0,QR Code,Parking meter,none,0,0,1,1
+https://iob.in/sale/diwali?ref=home,0,Micro QR,Hospital reception desk,none,0,0,1,1
+https://umang.gov.in/order/track?utm_source=app,0,QR Code,Parking meter,none,0,0,1,1
+https://google.com/restaurant/menu,0,QR Code,Government office notice board,none,0,0,1,1
+https://bhimupi.org.in/savings?utm_source=app,0,Micro QR,Airport check-in counter,none,0,1,1,1
+http://evil-domain.xyz@stackoverflow.com/recharge/free,1,QR Code,Fake courier delivery slip,"shadow_artifact,texture_discontinuity",95,0,0,0
+https://freecharge.in/deals?ref=home,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://is.gd/hdfc-verify-now,1,QR Code,Fake government notice board sticker,"double_border,shadow_artifact",95,0,0,0
+https://mahadiscom.in/portal?utm_source=app,0,QR Code,Parking meter,none,0,0,1,1
+https://irctc.co.in/table/45,0,Micro QR,Airport check-in counter,none,0,0,1,1
+http://short.gy/jio-recharge-free,1,QR Code,Fake courier delivery slip,texture_discontinuity,67,0,0,0
+http://customer-paytm.loan/notice/compliance?ref=prize&id=WIN9999,1,QR Code,QR code in unsolicited SMS,none,0,1,0,0
+https://olamoney.com/offers/today,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+http://amazon-india.ml/kyc-update,1,Data Matrix,Fake government notice board sticker,"shadow_artifact,texture_discontinuity",60,0,0,0
+https://cashfree.com/login,0,QR Code,Official app onboarding screen,none,0,0,1,1
+http://bit.ly/free-recharge,1,Micro QR,Sticker over original parking QR,"double_border,shadow_artifact,texture_discontinuity",97,0,0,0
+https://grofers.com/contact,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+https://zepto.com/upi-faqs?ref=home,0,QR Code,Official app onboarding screen,none,0,1,1,1
+https://abhibus.com/cart?utm_source=app,0,QR Code,Corporate ID badge,none,0,0,1,1
+https://icicibank.com/home?utm_source=app,0,Micro QR,Parking meter,none,0,0,1,1
+https://zepto.com/about?utm_source=app,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+http://buff.ly/airtel-cashback,1,Data Matrix,Fake soundbox sticker at kirana store,"double_border,texture_discontinuity",95,0,0,0
+http://t.co/loan-approved-click,1,QR Code,Fake courier delivery slip,"double_border,texture_discontinuity",55,0,0,0
+https://sbi.co.in/sale/diwali?ref=home,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+https://torrentpower.com/faq?ref=home,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+http://short.gy/apk-banking-update,1,Data Matrix,Pasted on electricity bill payment kiosk,texture_discontinuity,90,0,0,0
+https://cesc.co.in/deals?ref=home,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+http://phonepe-india.work/pay/reward,1,Data Matrix,Sticker over original parking QR,none,0,1,0,0
+https://magicpin.in/settings?ref=home,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://linkedin.com/gst-return?utm_source=app,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://epfo-official.in/cancel/ticket,1,QR Code,Poster stuck on parking meter,none,0,0,0,0
+http://hdfcc.in.net/lucky-draw/enter,1,Micro QR,QR code in unsolicited SMS,"double_border,shadow_artifact",95,0,0,0
+https://paypal.com/pnr-status?utm_source=app,0,QR Code,Bus/railway ticket window,none,0,1,1,1
+https://indianbank.in/pnr-status?ref=home,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+http://tiny.one/flipkart-lucky,1,QR Code,QR code in unsolicited SMS,"shadow_artifact,texture_discontinuity",95,0,0,0
+http://v.gd/loan-approved-click,1,QR Code,Pasted over hospital payment QR,none,0,0,0,0
+https://vi.in/help?utm_source=app,0,Micro QR,Retail store POS counter,none,0,0,1,1
+http://trusted-axis.site/cancel/ticket?kyc=pending&deadline=today,1,QR Code,Sticker over original parking QR,"double_border,texture_discontinuity",67,0,0,0
+https://dcbbank.com/api/v1/status?ref=home,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://freecharge.in/netbanking,0,Micro QR,Hospital reception desk,none,0,0,1,1
+http://t.co/epfo-pf-claim,1,Micro QR,Pamphlet distributed near ATM,"double_border,shadow_artifact",85,0,0,0
+http://bonus-gpay.cf/loan/apply?account=suspended&reason=kyc,1,QR Code,Sticker on restaurant table (original torn off),none,0,1,0,0
+http://meesho-secure-verify-otp-update.gq/win-prize/claim/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,1,Data Matrix,Fake government notice board sticker,shadow_artifact,83,0,0,0
+http://198.51.100.236/alert/security?account=suspended&reason=kyc,1,QR Code,Sticker on restaurant table (original torn off),"double_border,texture_discontinuity",93,0,0,0
+http://icici.net-banking.org.in.top/alert/security,1,Micro QR,Pasted over hospital payment QR,"double_border,texture_discontinuity",85,0,0,0
+https://gst.gov.in/sale/diwali?ref=home,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+http://tinyurl.com/vi-reward,1,Micro QR,Poster stuck on parking meter,none,0,0,0,0
+http://secure.account.verify.npci.ml/win-prize/claim,1,QR Code,Fake prize-claim poster at mall,"shadow_artifact,texture_discontinuity",86,0,0,0
+http://tiny.one/loan-approved-click,1,Data Matrix,Email attachment from unknown sender,shadow_artifact,89,0,0,0
+https://amazon.in/credit-card?utm_source=app,0,Micro QR,Retail store POS counter,none,0,0,1,1
+https://magicpin.in/contact?ref=home,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+https://paypal.com/contact?utm_source=app,0,QR Code,Hospital reception desk,none,0,1,1,1
+https://bsesdelhi.com/dashboard?utm_source=app,0,QR Code,Airport check-in counter,none,0,0,1,1
+https://nhp.gov.in/deals,0,QR Code,Corporate ID badge,none,0,0,1,1
+http://secure.account.verify.paytm.in.net/apk/download,1,Micro QR,Pamphlet distributed near ATM,none,0,1,0,0
+http://swiggy-india.cf/gift/redeem,1,QR Code,Sticker pasted over original QR at shop,"double_border,shadow_artifact,texture_discontinuity",79,0,0,0
+http://s.id/3xYzAb,1,Data Matrix,Pamphlet distributed near ATM,none,0,0,0,0
+http://amazon-in-deal.tk/recharge/free,1,Micro QR,Pasted over hospital payment QR,"double_border,shadow_artifact",62,0,0,0
+https://digilocker.gov.in/settings,0,QR Code,Hospital reception desk,none,0,0,1,1
+http://goo.gl/3xYzAb,1,QR Code,Pasted over hospital payment QR,"shadow_artifact,texture_discontinuity",70,0,0,0
+https://yesbank.in/api/v1/status?utm_source=app,0,Micro QR,Corporate ID badge,none,0,0,1,1
+https://torrentpower.com/services?ref=home,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+https://epfindia.gov.in/sale/diwali?utm_source=app,0,Micro QR,Government office notice board,none,0,0,1,1
+http://buff.ly/loan-approved-click,1,QR Code,Fake prize-claim poster at mall,double_border,86,0,0,0
+http://is.gd/flipkart-lucky,1,Micro QR,Fake prize-claim poster at mall,none,0,0,0,0
+https://google.com/merchant?ref=home,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+http://cutt.ly/irctc-cancel-refund,1,QR Code,Sticker over original parking QR,"double_border,texture_discontinuity",91,0,0,0
+https://jiopay.in/account?ref=home,0,QR Code,Restaurant menu table tent,none,0,1,1,1
+https://gst.gov.in/api/v1/status?ref=home,0,QR Code,Government office notice board,none,0,0,1,1
+http://cancel-uidai.ml/netbanking/login?action=verify&token=abc123,1,Micro QR,Sticker pasted over original QR at shop,texture_discontinuity,78,0,0,0
+https://torrentpower.com/login?ref=home,0,QR Code,Parking meter,none,0,0,1,1
+http://tinyurl.com/free-recharge,1,Micro QR,Fake soundbox sticker at kirana store,none,0,0,0,0
+http://user:pass@swiggy.com.fake.top/apk/download,1,Data Matrix,WhatsApp message from unknown number,none,0,0,0,0
+http://tinyurl.com/otp-confirm,1,Data Matrix,Fake soundbox sticker at kirana store,"double_border,texture_discontinuity",62,0,0,0
+http://user:pass@mca.gov.in.fake.top/booking/verify,1,Micro QR,Sticker pasted over original QR at shop,none,0,0,0,0
+http://rb.gy/airtel-cashback,1,QR Code,Fake courier delivery slip,none,0,0,0,0
+http://bit.ly/emi-offer,1,Data Matrix,Fake courier delivery slip,none,0,0,0,0
+http://ow.ly/upi-send-money,1,Micro QR,WhatsApp message from unknown number,none,0,1,0,0
+http://evil-domain.xyz@umang.gov.in/kyc-update,1,Micro QR,Sticker pasted over original QR at shop,none,0,0,0,0
+https://msedcl.com/portal?ref=home,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+http://irctc-secure-verify-otp-update.store/gift/redeem/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,1,QR Code,Pamphlet distributed near ATM,"shadow_artifact,texture_discontinuity",84,0,0,0
+http://www.airtel-portal.com/aadhaar-verify,1,Data Matrix,Fake government notice board sticker,shadow_artifact,71,0,0,0
+http://rb.gy/apk-banking-update,1,Micro QR,Email attachment from unknown sender,texture_discontinuity,71,0,0,0
+https://jiopay.in/savings,0,QR Code,Restaurant menu table tent,none,0,1,1,1
+https://tatacliq.com/offers/today?utm_source=app,0,Micro QR,Printed product packaging,none,0,0,1,1
+http://v.gd/paytm-reward,1,Data Matrix,Fake government notice board sticker,texture_discontinuity,78,1,0,0
+https://cashfree.com/pnr-status?utm_source=app,0,Micro QR,Parking meter,none,0,0,1,1
+https://unionbankofindia.co.in/help,0,QR Code,Parking meter,none,0,0,1,1
+http://10.0.0.85/notice/compliance?ref=prize&id=WIN9999,1,Micro QR,Pasted on electricity bill payment kiosk,"double_border,texture_discontinuity",58,0,0,0
+http://flipkart-sale.gq/wallet/topup,1,Micro QR,Pasted on electricity bill payment kiosk,none,0,0,0,0
+https://nha.gov.in/offers/today?ref=home,0,QR Code,Parking meter,none,0,0,1,1
+http://swiggy-india.pw/care/ticket,1,Data Matrix,Fake soundbox sticker at kirana store,none,0,0,0,0
+http://bsnl-india.loan/kyc/aadhaar,1,Micro QR,Fake soundbox sticker at kirana store,"double_border,shadow_artifact",65,0,0,0
+https://rblbank.com/savings?utm_source=app,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+https://incometax.gov.in/contact?utm_source=app,0,Micro QR,Airport check-in counter,none,0,0,1,1
+https://pnbindia.in/about?utm_source=app,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://linkedin.com/faq?ref=home,0,Micro QR,Retail store POS counter,none,0,0,1,1
+http://tinyurl.com/loan-approved-click,1,Data Matrix,QR code in unsolicited SMS,"double_border,shadow_artifact",93,0,0,0
+https://microsoft.com/checkout,0,QR Code,Official app onboarding screen,none,0,0,1,1
+https://jiomart.com/table/45?ref=home,0,QR Code,Hospital reception desk,none,0,0,1,1
+http://bit.ly/hdfc-verify-now,1,Micro QR,Sticker over original parking QR,none,0,0,0,0
+http://genuine-sbi.gq/update/download?apk=latest&version=2.1,1,QR Code,Fake government notice board sticker,texture_discontinuity,69,0,0,0
+http://tinyurl.com/income-tax-refund,1,Micro QR,Sticker over original parking QR,texture_discontinuity,74,0,0,0
+https://api.phonepe.com/restaurant/menu,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+https://blinkit.com/order?ref=home,0,QR Code,Hotel check-in desk,none,0,0,1,1
+http://www.phonepe-portal.com/win-prize/claim,1,QR Code,Email attachment from unknown sender,none,0,0,0,0
+https://m.jiomart.com/retail/login,0,QR Code,Airport check-in counter,none,0,0,1,1
+http://zom4to.pw/lucky-draw/enter,1,Micro QR,Fake soundbox sticker at kirana store,shadow_artifact,68,0,0,0
+https://kotak.com/retail/login,0,Micro QR,Hospital reception desk,none,0,0,1,1
+http://secure-zomato.net.in/update/download?aadhaar=required&pan=required,1,QR Code,Sticker inside public toilet payment box,none,0,0,0,0
+https://digitalindia.gov.in/product/12345,0,QR Code,Printed product packaging,none,0,0,1,1
+http://t.co/upi-send-money,1,Data Matrix,QR code in unsolicited SMS,"double_border,texture_discontinuity",78,1,0,0
+https://irctcc.tk/customer/helpdesk,1,Data Matrix,Sticker over original parking QR,none,0,0,1,0
+http://reward-phonepe.click/kyc-update?blocked=card&reason=fraud,1,Micro QR,Sticker inside public toilet payment box,texture_discontinuity,59,0,0,0
+https://jiomart.com/contact,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://myntra.com/deals,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://ow.ly/emi-offer,1,Micro QR,Email attachment from unknown sender,shadow_artifact,73,0,0,0
+https://pay.indusind.com/contact,0,Micro QR,Airport check-in counter,none,0,1,1,1
+https://digitalindia.gov.in/sale/diwali?utm_source=app,0,Micro QR,Parking meter,none,0,0,1,1
+http://swiggy-india.xyz/feedback/reward,1,Micro QR,Sticker on bus stop advertisement,shadow_artifact,86,0,0,0
+https://incometax.gov.in/home?utm_source=app,0,Micro QR,Parking meter,none,0,0,1,1
+http://user:pass@amazonpay.in.fake.top/secure-login,1,QR Code,Sticker pasted over original QR at shop,shadow_artifact,63,1,0,0
+https://npci.org.in/?utm_source=app,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+http://185.220.101.27/win-prize/claim?account=suspended&reason=kyc,1,QR Code,Pamphlet distributed near ATM,none,0,0,0,0
+https://swiggy.com/web/home,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+https://bsesdelhi.com/faq,0,QR Code,Printed product packaging,none,0,0,1,1
+https://linkedin.com/pnr-status?utm_source=app,0,QR Code,Corporate ID badge,none,0,0,1,1
+http://icici-secure-verify-otp-update.net.in/refund/process/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,1,Data Matrix,Sticker inside public toilet payment box,none,0,0,0,0
+http://suspend-nykaa.biz/credit/approve?kyc=pending&deadline=today,1,Micro QR,Sticker on bus stop advertisement,"double_border,texture_discontinuity",79,0,0,0
+https://zomato.com/order,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+https://zepto.com/help?utm_source=app,0,QR Code,Bus/railway ticket window,none,0,0,1,1
+http://confirm-nykaa.top/feedback/reward?ref=prize&id=WIN9999,1,Micro QR,Fake government notice board sticker,shadow_artifact,94,0,0,0
+https://linkedin.com/personal/home?utm_source=app,0,QR Code,Corporate ID badge,none,0,0,1,1
+https://flipkart.com/settings?utm_source=app,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+https://instamojo.com/deals,0,QR Code,Official app onboarding screen,none,0,0,1,1
+https://relianceretail.com/savings?utm_source=app,0,QR Code,Corporate ID badge,none,0,0,1,1
+http://paytm-secure-verify-otp-update.ga/gift/redeem/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,1,Data Matrix,Fake soundbox sticker at kirana store,shadow_artifact,76,1,0,0
+https://payumoney.com/dashboard?utm_source=app,0,Micro QR,Cinema ticket kiosk,none,0,1,1,1
+http://uidai-official.in/credit/approve,1,Micro QR,Fake prize-claim poster at mall,"shadow_artifact,texture_discontinuity",82,0,0,0
+https://rblbank.com/credit-card?ref=home,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+https://phonepe.com/about,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://yatra.com/cart?ref=home,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+https://bsesdelhi.com/retail/login?utm_source=app,0,Micro QR,Corporate ID badge,none,0,0,1,1
+http://zomato-india.online/card/blocked,1,Micro QR,Pasted over hospital payment QR,none,0,0,0,0
+http://icicii.loan/loan/apply,1,Data Matrix,Pamphlet distributed near ATM,"double_border,shadow_artifact",63,0,0,0
+http://uidai-india.biz/cashback/get,1,Micro QR,Pasted over hospital payment QR,"double_border,texture_discontinuity",73,0,0,0
+http://phonepee.xyz/apk/download,1,Micro QR,Sticker over original parking QR,texture_discontinuity,68,0,0,0
+https://makemytrip.com/portal,0,QR Code,Corporate ID badge,none,0,0,1,1
+https://hdfcbank.com/netbanking,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+http://helpdesk-gpay.gq/cancel/ticket?ref=prize&id=WIN9999,1,Micro QR,QR code in unsolicited SMS,none,0,1,0,0
+https://myntra.com/credit-card?utm_source=app,0,QR Code,Hotel check-in desk,none,0,0,1,1
+https://linkedin.com/tax/efiling?utm_source=app,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+http://phonepe-india.gq/pan-upload,1,QR Code,Sticker over original parking QR,"double_border,shadow_artifact,texture_discontinuity",86,0,0,0
+http://user:pass@epfindia.gov.in.fake.top/cashback/get,1,Data Matrix,Fake government notice board sticker,"double_border,shadow_artifact",91,0,0,0
+http://tinyurl.com/jio-recharge-free,1,Micro QR,Email attachment from unknown sender,"double_border,shadow_artifact",97,0,0,0
+http://incometax-india.pw/emi/offer,1,Data Matrix,Pasted over hospital payment QR,none,0,0,0,0
+https://microsoft.com/retail/login,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://canarabank.com/api/v1/status?utm_source=app,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+https://freecharge.in/order?ref=home,0,QR Code,Parking meter,none,0,0,1,1
+https://torrentpower.com/portal?utm_source=app,0,QR Code,Corporate ID badge,none,0,0,1,1
+http://paytm-india.site/apk/download,1,Micro QR,Sticker on bus stop advertisement,double_border,75,1,0,0
+https://dcbbank.com/account?utm_source=app,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+http://short.gy/vi-reward,1,Data Matrix,Fake soundbox sticker at kirana store,"double_border,shadow_artifact",89,0,0,0
+http://bit.ly/jio-recharge-free,1,Data Matrix,QR code in unsolicited SMS,none,0,0,0,0
+http://paytm.net-banking.loan/pan-upload,1,QR Code,Pasted on electricity bill payment kiosk,"shadow_artifact,texture_discontinuity",80,1,0,0
+http://www.incometax-portal.com/netbanking/login,1,Data Matrix,Sticker over original parking QR,"shadow_artifact,texture_discontinuity",86,0,0,0
+http://goo.gl/jio-recharge-free,1,Micro QR,Sticker on restaurant table (original torn off),none,0,0,0,0
+http://t.co/amazon-gift-claim,1,Micro QR,Email attachment from unknown sender,none,0,0,0,0
+https://magicpin.in/order?ref=home,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+http://s.id/vi-reward,1,QR Code,Pasted over hospital payment QR,"double_border,texture_discontinuity",96,0,0,0
+https://unionbankofindia.co.in/personal/home?ref=home,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+http://cutt.ly/win-prize-5000,1,Data Matrix,Sticker over original parking QR,shadow_artifact,59,0,0,0
+https://federalbank.co.in/api/v1/status,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+http://axis.net-banking.work/warning/action,1,Data Matrix,QR code in unsolicited SMS,texture_discontinuity,94,0,0,0
+https://cashfree.com/retail/login,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+https://yatra.com/reservations?ref=home,0,Micro QR,Government office notice board,none,0,0,1,1
+http://new-icici.ga/account/suspended?survey=complete&earn=500,1,QR Code,Pasted over hospital payment QR,"double_border,texture_discontinuity",88,0,0,0
+https://bandhanbank.com/portal?utm_source=app,0,Micro QR,Parking meter,none,0,0,1,1
+http://sbi-india.pw/loan/apply,1,Micro QR,Fake soundbox sticker at kirana store,none,0,0,0,0
+http://aadhaar-bsnl.click/secure-login?action=verify&token=abc123,1,Micro QR,Sticker on restaurant table (original torn off),"shadow_artifact,texture_discontinuity",84,0,0,0
+http://198.51.100.12/feedback/reward?aadhaar=required&pan=required,1,QR Code,Sticker pasted over original QR at shop,none,0,0,0,0
+http://phonepe.net-banking.live/win-prize/claim,1,Micro QR,Pasted on electricity bill payment kiosk,double_border,62,0,0,0
+http://sbi-india.store/update/download,1,QR Code,Fake government notice board sticker,double_border,69,0,0,0
+http://irctc.net-banking.info/otp-confirm,1,QR Code,WhatsApp message from unknown number,shadow_artifact,87,0,0,0
+http://icici.net-banking.online/kyc-update,1,QR Code,Fake prize-claim poster at mall,none,0,0,0,0
+http://secure.account.verify.icici.net.in/care/ticket,1,Micro QR,Fake prize-claim poster at mall,"double_border,shadow_artifact,texture_discontinuity",72,0,0,0
+http://paytm-india.ml/lucky-draw/enter,1,Micro QR,Pasted over hospital payment QR,texture_discontinuity,63,1,0,0
+http://icici-india.org.in.top/alert/security,1,QR Code,Email attachment from unknown sender,none,0,0,0,0
+https://linkedin.com/login,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+https://yatra.com/,0,QR Code,Corporate ID badge,none,0,0,1,1
+http://paytm-upi.co.in.xyz/account/suspended,1,QR Code,WhatsApp message from unknown number,none,0,1,0,0
+https://cleartrip.com/contact,0,Micro QR,Parking meter,none,0,0,1,1
+https://stackoverflow.com/offers/today?ref=home,0,QR Code,Bus/railway ticket window,none,0,0,1,1
+http://short.gy/airtel-cashback,1,Micro QR,QR code in unsolicited SMS,none,0,0,0,0
+http://tiny.one/amazon-gift-claim,1,Data Matrix,Fake soundbox sticker at kirana store,none,0,0,0,0
+http://buff.ly/vi-reward,1,Micro QR,Pasted over hospital payment QR,none,0,0,0,0
+https://zepto.com/services,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+http://protected-nykaa.info/otp-confirm?otp=required&uid=user,1,Micro QR,Sticker inside public toilet payment box,"double_border,texture_discontinuity",93,0,0,0
+https://npci.org.in/savings?ref=home,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+http://upi-axis.org.in.top/care/ticket?action=verify&token=abc123,1,QR Code,Pasted on electricity bill payment kiosk,"shadow_artifact,texture_discontinuity",92,1,0,0
+http://account-airtel.click/support/chat?session=expired&relogin=1,1,QR Code,Sticker inside public toilet payment box,texture_discontinuity,69,0,0,0
+http://suspend-jio.loan/update/download?ref=prize&id=WIN9999,1,Data Matrix,Poster stuck on parking meter,none,0,0,0,0
+http://77.83.172.250/notice/compliance?survey=complete&earn=500,1,Data Matrix,Pasted over hospital payment QR,shadow_artifact,75,0,0,0
+https://paytem.store/account-verify,1,Micro QR,Fake courier delivery slip,shadow_artifact,63,1,1,0
+http://nykaa.net-banking.net.in/secure-login,1,Data Matrix,Fake soundbox sticker at kirana store,double_border,82,0,0,0
+http://flipkart-india.tk/warning/action,1,QR Code,Fake government notice board sticker,none,0,0,0,0
+https://jio.com/services?utm_source=app,0,QR Code,Retail store POS counter,none,0,0,1,1
+https://fl1pkar7.site/wallet/topup,1,Micro QR,Fake prize-claim poster at mall,texture_discontinuity,92,0,1,0
+https://instamojo.com/faq?utm_source=app,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://hdfcbank.com/booking?ref=home,0,QR Code,Official app onboarding screen,none,0,0,1,1
+http://rb.gy/income-tax-refund,1,Data Matrix,Fake courier delivery slip,none,0,0,0,0
+http://rb.gy/epfo-pf-claim,1,Data Matrix,Sticker on bus stop advertisement,"shadow_artifact,texture_discontinuity",65,0,0,0
+http://s.id/epfo-pf-claim,1,Micro QR,Poster stuck on parking meter,none,0,0,0,0
+https://bankofbaroda.in/booking?ref=home,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+https://ajio.com/merchant?utm_source=app,0,QR Code,Restaurant menu table tent,none,0,0,1,1
+https://flipkart.com/tax/efiling?utm_source=app,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+http://t.co/apk-banking-update,1,Data Matrix,Pasted over hospital payment QR,none,0,0,0,0
+https://bandhanbank.com/product/12345?utm_source=app,0,Micro QR,Parking meter,none,0,0,1,1
+https://1rctc.loan/update/download,1,Micro QR,Sticker inside public toilet payment box,none,0,0,1,0
+http://verify-bsnl.gq/cashback/get?kyc=pending&deadline=today,1,Data Matrix,Sticker pasted over original QR at shop,double_border,83,0,0,0
+http://short.gy/otp-confirm,1,QR Code,Pasted over hospital payment QR,none,0,0,0,0
+http://gpay-india.work/otp-confirm,1,Micro QR,Sticker over original parking QR,none,0,1,0,0
+http://kyc-swiggy.biz/support/chat?refund=pending&bank=sbi,1,Data Matrix,WhatsApp message from unknown number,"double_border,shadow_artifact",90,0,0,0
+https://zepto.com/netbanking?utm_source=app,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+https://mobikwik.com/profile?utm_source=app,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+http://uidai-india.work/gift/redeem,1,Data Matrix,Fake prize-claim poster at mall,"double_border,shadow_artifact,texture_discontinuity",87,0,0,0
+http://s.id/income-tax-refund,1,Micro QR,QR code in unsolicited SMS,texture_discontinuity,68,0,0,0
+http://short.gy/gst-notice,1,Micro QR,Sticker on restaurant table (original torn off),none,0,0,0,0
+http://tiny.one/jio-recharge-free,1,Data Matrix,Sticker over original parking QR,none,0,0,0,0
+https://instamojo.com/product/12345,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+https://paypal.com/faq,0,Micro QR,Government office notice board,none,0,1,1,1
+http://update-zomato.info/recharge/free?reward=5000&claim=now,1,Micro QR,Fake prize-claim poster at mall,none,0,0,0,0
+https://api.federalbank.co.in/settings,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+https://irctc.co.in/reservations?utm_source=app,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+https://flipkart.com/credit-card?ref=home,0,Micro QR,Retail store POS counter,none,0,0,1,1
+https://hdfcbank.com/netbanking?ref=home,0,QR Code,Retail store POS counter,none,0,0,1,1
+http://goo.gl/amazon-gift-claim,1,Data Matrix,WhatsApp message from unknown number,"shadow_artifact,texture_discontinuity",94,0,0,0
+http://198.51.100.230/kyc/aadhaar?otp=required&uid=user,1,QR Code,Email attachment from unknown sender,double_border,63,0,0,0
+http://flipkart.net-banking.tk/warning/action,1,Data Matrix,Poster stuck on parking meter,"double_border,shadow_artifact,texture_discontinuity",73,0,0,0
+http://phonepe-official.in/win-prize/claim,1,Data Matrix,Sticker on restaurant table (original torn off),none,0,0,0,0
+https://bankofbaroda.in/order/track?utm_source=app,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://mobikwik.com/netbanking?utm_source=app,0,Micro QR,Hospital reception desk,none,0,0,1,1
+http://goo.gl/epfo-pf-claim,1,QR Code,WhatsApp message from unknown number,none,0,0,0,0
+https://amazonpay.in/restaurant/menu,0,QR Code,Cinema ticket kiosk,none,0,1,1,1
+http://192.168.1.4/pay/reward?survey=complete&earn=500,1,Data Matrix,Pasted on electricity bill payment kiosk,"double_border,shadow_artifact",72,1,0,0
+http://is.gd/epfo-pf-claim,1,QR Code,Poster stuck on parking meter,"double_border,shadow_artifact",67,0,0,0
+https://net.nhp.gov.in/table/45,0,Micro QR,Airport check-in counter,none,0,0,1,1
+https://airtelbank.com/pay?ref=home,0,QR Code,Petrol pump payment terminal,none,0,1,1,1
+http://s.id/flipkart-lucky,1,Micro QR,Fake soundbox sticker at kirana store,texture_discontinuity,87,0,0,0
+http://buff.ly/aadhaar-update-now,1,Micro QR,Email attachment from unknown sender,none,0,0,0,0
+https://yesbank.in/account,0,Micro QR,Retail store POS counter,none,0,0,1,1
+http://rb.gy/vi-reward,1,Micro QR,Fake soundbox sticker at kirana store,double_border,88,0,0,0
+https://npci.org.in/gst-return?ref=home,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+http://rb.gy/win-prize-5000,1,Data Matrix,WhatsApp message from unknown number,shadow_artifact,71,0,0,0
+https://freecharge.in/faq,0,Micro QR,Printed product packaging,none,0,0,1,1
+https://digilocker.gov.in/product/12345,0,Micro QR,Retail store POS counter,none,0,0,1,1
+https://npci.org.in/cart?utm_source=app,0,QR Code,Bus/railway ticket window,none,0,0,1,1
+http://203.0.113.184/refund/process?ref=prize&id=WIN9999,1,Data Matrix,Email attachment from unknown sender,none,0,0,0,0
+http://bonus-incometax.org.in.top/upi/disabled?action=verify&token=abc123,1,Data Matrix,Pasted on electricity bill payment kiosk,"double_border,shadow_artifact",56,1,0,0
+https://mahadiscom.in/services?ref=home,0,Micro QR,Corporate ID badge,none,0,0,1,1
+http://v.gd/airtel-cashback,1,Micro QR,Sticker inside public toilet payment box,none,0,0,0,0
+https://blinkit.com/settings?ref=home,0,Micro QR,Printed product packaging,none,0,0,1,1
+http://short.gy/loan-approved-click,1,Micro QR,Fake government notice board sticker,"double_border,texture_discontinuity",92,0,0,0
+http://ow.ly/jio-recharge-free,1,QR Code,Fake prize-claim poster at mall,none,0,0,0,0
+https://bsnl.co.in/contact,0,Micro QR,Hospital reception desk,none,0,0,1,1
+https://jiopay.in/help?utm_source=app,0,Micro QR,Restaurant menu table tent,none,0,1,1,1
+https://incometax.gov.in/portal?utm_source=app,0,QR Code,Parking meter,none,0,0,1,1
+http://win-sbi.co.in.xyz/gift/redeem?survey=complete&earn=500,1,Data Matrix,Pasted on electricity bill payment kiosk,none,0,0,0,0
+http://razorpay.net-banking.ga/kyc-update,1,Micro QR,Sticker over original parking QR,double_border,70,1,0,0
+https://bandhanbank.com/merchant?utm_source=app,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+https://dcbbank.com/offers/today?utm_source=app,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+http://suspend-irctc.ml/wallet/topup?reward=5000&claim=now,1,QR Code,Fake government notice board sticker,none,0,0,0,0
+https://centralbankschet.in/table/45?utm_source=app,0,QR Code,Corporate ID badge,none,0,0,1,1
+http://buff.ly/epfo-pf-claim,1,Micro QR,Pasted on electricity bill payment kiosk,"double_border,shadow_artifact,texture_discontinuity",91,0,0,0
+http://irctc-booking.live/pan-upload,1,QR Code,Sticker pasted over original QR at shop,none,0,0,0,0
+http://secure.account.verify.irctc.top/netbanking/login,1,QR Code,Pamphlet distributed near ATM,none,0,0,0,0
+https://digilocker.gov.in/settings?utm_source=app,0,Micro QR,Parking meter,none,0,0,1,1
+http://hdfc-official.in/loan/apply,1,Micro QR,Sticker on restaurant table (original torn off),none,0,0,0,0
+https://snapdeal.com/personal/home,0,Micro QR,Airport check-in counter,none,0,0,1,1
+https://freecharge.in/contact?ref=home,0,QR Code,Parking meter,none,0,0,1,1
+https://passport.gov.in/api/v1/status?ref=home,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+https://airtel.in/web/home?ref=home,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+https://bankofindia.co.in/tax/efiling?utm_source=app,0,Micro QR,Printed product packaging,none,0,0,1,1
+https://uber.com/sale/diwali,0,QR Code,Loyalty card mailer,none,0,0,1,1
+https://ajio.com/product/12345?utm_source=app,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+https://cashfree.com/savings?ref=home,0,Micro QR,Airport check-in counter,none,0,0,1,1
+http://zomato.net-banking.cf/survey/complete,1,QR Code,Pamphlet distributed near ATM,double_border,74,0,0,0
+https://apple.com/booking?utm_source=app,0,QR Code,Retail store POS counter,none,0,0,1,1
+http://is.gd/amazon-gift-claim,1,Micro QR,WhatsApp message from unknown number,none,0,0,0,0
+http://ow.ly/win-prize-5000,1,QR Code,Sticker on bus stop advertisement,"double_border,shadow_artifact,texture_discontinuity",69,0,0,0
+http://www.paytm-portal.com/netbanking/login,1,Data Matrix,Poster stuck on parking meter,none,0,1,0,0
+https://yatra.com/portal?ref=home,0,QR Code,Official app onboarding screen,none,0,0,1,1
+http://4mazon.gq/lucky-draw/enter,1,Data Matrix,Pasted on electricity bill payment kiosk,none,0,0,0,0
+https://instamojo.com/product/12345?utm_source=app,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://meesho.net-banking.ga/account-verify,1,Data Matrix,Sticker pasted over original QR at shop,double_border,63,0,0,0
+http://198.51.100.93/care/ticket?otp=required&uid=user,1,Micro QR,Sticker on bus stop advertisement,"double_border,shadow_artifact,texture_discontinuity",58,0,0,0
+https://abhibus.com/retail/login?ref=home,0,QR Code,Bus/railway ticket window,none,0,0,1,1
+https://swiggy.com/tax/efiling?ref=home,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+https://tatacliq.com/personal/home?utm_source=app,0,QR Code,Official app onboarding screen,none,0,0,1,1
+https://bankofindia.co.in/faq,0,QR Code,Parking meter,none,0,0,1,1
+https://zom4to.pw/lucky-draw/enter,1,QR Code,Sticker over original parking QR,"shadow_artifact,texture_discontinuity",60,0,1,0
+http://confirm-zomato.ml/kyc/aadhaar?otp=required&uid=user,1,Micro QR,Pasted on electricity bill payment kiosk,"double_border,shadow_artifact,texture_discontinuity",71,0,0,0
+http://s.id/amazon-gift-claim,1,Data Matrix,Sticker pasted over original QR at shop,none,0,0,0,0
+https://payumoney.com/sale/diwali,0,QR Code,Bus/railway ticket window,none,0,1,1,1
+http://91.108.4.185/customer/helpdesk?apk=latest&version=2.1,1,QR Code,Fake courier delivery slip,none,0,0,0,0
+http://amazon.net-banking.live/care/ticket,1,Micro QR,Poster stuck on parking meter,double_border,86,0,0,0
+https://microsoft.com/web/home,0,QR Code,Airport check-in counter,none,0,0,1,1
+http://tinyurl.com/flipkart-lucky,1,Data Matrix,Pasted on electricity bill payment kiosk,texture_discontinuity,62,0,0,0
+http://goo.gl/vi-reward,1,QR Code,WhatsApp message from unknown number,double_border,77,0,0,0
+https://freecharge.in/dashboard?ref=home,0,Micro QR,Printed product packaging,none,0,0,1,1
+https://indusind.com/login?utm_source=app,0,QR Code,Airport check-in counter,none,0,0,1,1
+http://ow.ly/amazon-gift-claim,1,Micro QR,Fake courier delivery slip,"double_border,shadow_artifact",84,0,0,0
+https://kotak.com/offers/today?ref=home,0,QR Code,Cinema ticket kiosk,none,0,0,1,1
+https://bsesdelhi.com/credit-card,0,QR Code,Official app onboarding screen,none,0,0,1,1
+http://91.108.4.250/pay/reward?otp=required&uid=user,1,Data Matrix,Pasted over hospital payment QR,shadow_artifact,56,1,0,0
+http://203.0.113.227/account-verify?aadhaar=required&pan=required,1,QR Code,Fake prize-claim poster at mall,"double_border,shadow_artifact",63,0,0,0
+http://v.gd/apk-banking-update,1,QR Code,Email attachment from unknown sender,"shadow_artifact,texture_discontinuity",69,0,0,0
+http://customer-npci.gq/survey/complete?survey=complete&earn=500,1,Micro QR,QR code in unsolicited SMS,"double_border,texture_discontinuity",95,0,0,0
+https://indianbank.in/?ref=home,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+https://india.gov.in/merchant,0,QR Code,Printed product packaging,none,0,0,1,1
+http://t.co/win-prize-5000,1,Micro QR,Sticker inside public toilet payment box,texture_discontinuity,84,0,0,0
+http://official-epfo.cf/document/upload?refund=pending&bank=sbi,1,Data Matrix,Poster stuck on parking meter,none,0,0,0,0
+http://secure.account.verify.meesho.pw/aadhaar-verify,1,QR Code,QR code in unsolicited SMS,"double_border,texture_discontinuity",82,0,0,0
+https://microsoft.com/personal/home,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://is.gd/win-prize-5000,1,QR Code,Poster stuck on parking meter,none,0,0,0,0
+http://is.gd/vi-reward,1,Micro QR,Fake soundbox sticker at kirana store,none,0,0,0,0
+http://jio-india.site/recharge/free,1,QR Code,Fake prize-claim poster at mall,"double_border,shadow_artifact,texture_discontinuity",72,0,0,0
+https://indusind.com/offers/today,0,Micro QR,Corporate ID badge,none,0,0,1,1
+http://icici-india.org.in.top/id-proof/submit,1,QR Code,Fake government notice board sticker,none,0,0,0,0
+http://bit.ly/amazon-gift-claim,1,Data Matrix,Fake prize-claim poster at mall,shadow_artifact,63,0,0,0
+https://axisbank.com/dashboard?ref=home,0,Micro QR,Government office notice board,none,0,0,1,1
+https://bescom.org/checkout,0,Micro QR,Retail store POS counter,none,0,0,1,1
+http://t.co/aadhaar-update-now,1,Micro QR,Fake government notice board sticker,"shadow_artifact,texture_discontinuity",81,0,0,0
+https://vi.in/portal?utm_source=app,0,QR Code,Parking meter,none,0,0,1,1
+https://amazon.in/netbanking?ref=home,0,QR Code,Restaurant menu table tent,none,0,0,1,1
+https://icicibank.com/booking,0,Micro QR,Corporate ID badge,none,0,0,1,1
+http://rb.gy/amazon-gift-claim,1,QR Code,Poster stuck on parking meter,texture_discontinuity,56,0,0,0
+http://tiny.one/airtel-cashback,1,QR Code,Poster stuck on parking meter,"double_border,shadow_artifact,texture_discontinuity",91,0,0,0
+https://msedcl.com/order/track?utm_source=app,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+https://instamojo.com/settings?ref=home,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+http://helpdesk-icici.org.in.top/notice/compliance?blocked=card&reason=fraud,1,Data Matrix,Sticker on restaurant table (original torn off),none,0,0,0,0
+http://phonepe.net-banking.gq/pan-upload,1,Data Matrix,Poster stuck on parking meter,none,0,0,0,0
+http://185.220.101.90/account-verify?action=verify&token=abc123,1,QR Code,Sticker inside public toilet payment box,none,0,0,0,0
+http://tiny.one/3xYzAb,1,Micro QR,Poster stuck on parking meter,"double_border,shadow_artifact,texture_discontinuity",65,0,0,0
+https://apple.com/about?utm_source=app,0,Micro QR,Hospital reception desk,none,0,0,1,1
+http://nykaa-india.net.in/secure-login,1,Micro QR,Sticker pasted over original QR at shop,none,0,0,0,0
+http://epfo-india.tk/update/download,1,Micro QR,Sticker on bus stop advertisement,texture_discontinuity,72,0,0,0
+https://paypal.com/settings?ref=home,0,QR Code,Hospital reception desk,none,0,1,1,1
+https://google.com/login?utm_source=app,0,QR Code,Printed product packaging,none,0,0,1,1
+http://login.update.kyc.icici.in.net.in/care/ticket,1,Data Matrix,WhatsApp message from unknown number,shadow_artifact,67,0,0,0
+http://airtel.net-banking.info/update/download,1,Micro QR,Pasted on electricity bill payment kiosk,none,0,0,0,0
+https://linkedin.com/?utm_source=app,0,QR Code,Corporate ID badge,none,0,0,1,1
+http://hdfc-india.online/recharge/free,1,Micro QR,Email attachment from unknown sender,none,0,0,0,0
+https://bhimupi.org.in/personal/home?utm_source=app,0,QR Code,Hospital reception desk,none,0,1,1,1
+https://indianbank.in/about?utm_source=app,0,Micro QR,Corporate ID badge,none,0,0,1,1
+http://buff.ly/hdfc-verify-now,1,QR Code,Pasted on electricity bill payment kiosk,"double_border,shadow_artifact",69,0,0,0
+http://secure.account.verify.axis.click/cashback/get,1,QR Code,Pasted on electricity bill payment kiosk,none,0,0,0,0
+https://bankofbaroda.in/tax/efiling?ref=home,0,QR Code,Corporate ID badge,none,0,0,1,1
+http://confirm-gpay.xyz/cancel/ticket?blocked=card&reason=fraud,1,Micro QR,Sticker over original parking QR,"double_border,shadow_artifact,texture_discontinuity",87,1,0,0
+https://amazonpay.in/retail/login,0,QR Code,Corporate ID badge,none,0,1,1,1
+https://umang.gov.in/web/home?ref=home,0,QR Code,Bus/railway ticket window,none,0,0,1,1
+https://amazonpay.in/order?utm_source=app,0,Micro QR,Petrol pump payment terminal,none,0,1,1,1
+http://sbi-secure-verify-otp-update.top/pan-upload/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,1,Micro QR,Sticker on restaurant table (original torn off),"double_border,shadow_artifact",67,0,0,0
+https://irctc.co.in/merchant?utm_source=app,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+http://irctc-india.in.net/survey/complete,1,Data Matrix,Sticker on restaurant table (original torn off),none,0,0,0,0
+http://v.gd/sbi-kyc-alert,1,QR Code,Pasted over hospital payment QR,"shadow_artifact,texture_discontinuity",88,0,0,0
+https://hdfcc.in.net/lucky-draw/enter,1,QR Code,Sticker inside public toilet payment box,"double_border,shadow_artifact",62,0,1,0
+https://bigbasket.com/pay?utm_source=app,0,Micro QR,Restaurant menu table tent,none,0,1,1,1
+http://ow.ly/hdfc-verify-now,1,QR Code,QR code in unsolicited SMS,"double_border,shadow_artifact,texture_discontinuity",55,0,0,0
+http://flipkart.net-banking.biz/rate/earn,1,Micro QR,Pasted over hospital payment QR,"shadow_artifact,texture_discontinuity",60,0,0,0
+http://10.0.0.42/notice/compliance?blocked=card&reason=fraud,1,Micro QR,Sticker inside public toilet payment box,none,0,0,0,0
+https://irctc.co.in/offers/today,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+https://snapdeal.com/checkout?utm_source=app,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+https://icicibank.com/cart,0,QR Code,Government office notice board,none,0,0,1,1
+http://secure-icici.ml/loan/apply?action=verify&token=abc123,1,Micro QR,Fake soundbox sticker at kirana store,shadow_artifact,79,0,0,0
+https://irctc-booking.live/pan-upload,1,Micro QR,Sticker on bus stop advertisement,texture_discontinuity,92,0,1,0
+http://phonepe-india.live/win-prize/claim,1,QR Code,Fake prize-claim poster at mall,double_border,65,0,0,0
+http://tinyurl.com/aadhaar-update-now,1,Micro QR,Pasted on electricity bill payment kiosk,none,0,0,0,0
+https://bhimupi.org.in/merchant,0,Micro QR,Corporate ID badge,none,0,1,1,1
+https://federalbank.co.in/retail/login?ref=home,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+https://rapido.bike/pay?utm_source=app,0,QR Code,Petrol pump payment terminal,none,0,1,1,1
+https://stackoverflow.com/faq?ref=home,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+https://bankofindia.co.in/contact?utm_source=app,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+https://digitalindia.gov.in/settings?utm_source=app,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+http://epfo-india.ga/apk/download,1,Data Matrix,Sticker on restaurant table (original torn off),"double_border,shadow_artifact,texture_discontinuity",69,0,0,0
+http://epfo.net-banking.tk/update/download,1,QR Code,Sticker over original parking QR,"double_border,shadow_artifact,texture_discontinuity",97,0,0,0
+http://user:pass@indianbank.in.fake.top/booking/verify,1,Micro QR,Fake prize-claim poster at mall,"double_border,texture_discontinuity",94,0,0,0
+https://nykaa.com/api/v1/status?ref=home,0,QR Code,Loyalty card mailer,none,0,0,1,1
+https://uber.com/web/home?ref=home,0,Micro QR,Retail store POS counter,none,0,0,1,1
+https://indusind.com/order/track?utm_source=app,0,Micro QR,Airport check-in counter,none,0,0,1,1
+http://gpay.net-banking.live/apk/download,1,Micro QR,Pasted over hospital payment QR,"shadow_artifact,texture_discontinuity",76,1,0,0
+http://77.83.172.109/apk/download?apk=latest&version=2.1,1,Micro QR,Poster stuck on parking meter,"shadow_artifact,texture_discontinuity",56,0,0,0
+http://meesho-india.ga/account-verify,1,Micro QR,Sticker on bus stop advertisement,"double_border,texture_discontinuity",60,0,0,0
+https://swiggy.com/portal?ref=home,0,QR Code,Parking meter,none,0,0,1,1
+https://bandhanbank.com/personal/home,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+https://dunzo.com/tax/efiling?ref=home,0,QR Code,Cinema ticket kiosk,none,0,0,1,1
+http://bit.ly/income-tax-refund,1,Data Matrix,WhatsApp message from unknown number,"shadow_artifact,texture_discontinuity",59,0,0,0
+https://magicpin.in/profile?ref=home,0,QR Code,Retail store POS counter,none,0,0,1,1
+https://payumoney.com/?ref=home,0,Micro QR,Corporate ID badge,none,0,1,1,1
+https://bandhanbank.com/portal,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+https://jiomart.com/api/v1/status,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+http://razorpay-india.ml/alert/security,1,Data Matrix,Fake prize-claim poster at mall,none,0,1,0,0
+https://instamojo.com/merchant,0,Micro QR,Printed product packaging,none,0,0,1,1
+http://npci.net-banking.ml/emi/offer,1,QR Code,Pamphlet distributed near ATM,none,0,0,0,0
+https://bigbasket.com/home,0,Micro QR,Hospital reception desk,none,0,0,1,1
+http://91.108.4.115/account-verify?ref=prize&id=WIN9999,1,QR Code,Sticker inside public toilet payment box,none,0,0,0,0
+https://olamoney.com/cart?utm_source=app,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+https://yatra.com/restaurant/menu?utm_source=app,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+https://bandhanbank.com/help,0,QR Code,Airport check-in counter,none,0,0,1,1
+https://msedcl.com/retail/login?ref=home,0,QR Code,Restaurant menu table tent,none,0,0,1,1
+https://zomato.com/credit-card?ref=home,0,QR Code,Printed product packaging,none,0,0,1,1
+http://t.co/emi-offer,1,QR Code,Fake courier delivery slip,none,0,0,0,0
+https://github.com/dashboard,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+https://razorpay.com/cart,0,Micro QR,Printed product packaging,none,0,1,1,1
+https://myntra.com/retail/login,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+http://bit.ly/flipkart-lucky,1,Data Matrix,Fake courier delivery slip,none,0,0,0,0
+https://incometax.gov.in/gst-return?ref=home,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+http://paytm.net-banking.ml/lucky-draw/enter,1,Micro QR,Sticker inside public toilet payment box,"double_border,texture_discontinuity",96,1,0,0
+https://nykaa.com/sale/diwali,0,Micro QR,Corporate ID badge,none,0,0,1,1
+https://jiopay.in/deals?ref=home,0,Micro QR,Corporate ID badge,none,0,1,1,1
+https://mobikwik.com/booking?utm_source=app,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+https://cleartrip.com/dashboard?ref=home,0,Micro QR,Printed product packaging,none,0,0,1,1
+http://www.epfo-portal.com/cancel/ticket,1,Micro QR,WhatsApp message from unknown number,"double_border,shadow_artifact",62,0,0,0
+http://192.168.1.37/kyc-update?ref=prize&id=WIN9999,1,Micro QR,Fake soundbox sticker at kirana store,shadow_artifact,55,0,0,0
+http://bit.ly/loan-approved-click,1,Data Matrix,Sticker inside public toilet payment box,double_border,95,0,0,0
+https://bhimupi.org.in/booking?utm_source=app,0,QR Code,Supermarket self-checkout,none,0,1,1,1
+http://tiny.one/sbi-kyc-alert,1,Micro QR,Poster stuck on parking meter,"double_border,shadow_artifact",67,0,0,0
+https://nykaa.com/sale/diwali?utm_source=app,0,QR Code,Restaurant menu table tent,none,0,0,1,1
+https://bandhanbank.com/reservations?ref=home,0,Micro QR,Retail store POS counter,none,0,0,1,1
+https://rblbank.com/netbanking,0,QR Code,Parking meter,none,0,0,1,1
+https://yesbank.in/deals?ref=home,0,Micro QR,Government office notice board,none,0,0,1,1
+http://77.83.172.124/credit/approve?refund=pending&bank=sbi,1,QR Code,Pasted over hospital payment QR,"double_border,texture_discontinuity",86,0,0,0
+https://github.com/portal?utm_source=app,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+https://redbus.in/savings?utm_source=app,0,QR Code,Government office notice board,none,0,0,1,1
+https://pnbindia.in/account?ref=home,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://t.co/vi-reward,1,QR Code,Sticker pasted over original QR at shop,"double_border,shadow_artifact,texture_discontinuity",68,0,0,0
+https://flipkart.com/retail/login?utm_source=app,0,Micro QR,Printed product packaging,none,0,0,1,1
+https://digilocker.gov.in/credit-card?utm_source=app,0,Micro QR,Parking meter,none,0,0,1,1
+http://secure.account.verify.amazon.online/account-verify,1,QR Code,Poster stuck on parking meter,"shadow_artifact,texture_discontinuity",79,0,0,0
+https://sbi.co.in/credit-card?utm_source=app,0,Micro QR,Hospital reception desk,none,0,0,1,1
+http://uidai.net-banking.work/gift/redeem,1,Micro QR,WhatsApp message from unknown number,shadow_artifact,70,0,0,0
+https://swiggy.com/pay?utm_source=app,0,Micro QR,Printed product packaging,none,0,1,1,1
+https://bescom.org/restaurant/menu,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+https://vi.in/profile,0,Micro QR,Retail store POS counter,none,0,0,1,1
+https://zomatto.top/booking/verify,1,QR Code,WhatsApp message from unknown number,double_border,81,0,1,0
+http://s.id/win-prize-5000,1,Data Matrix,Pamphlet distributed near ATM,none,0,0,0,0
+http://claim-phonepe.live/customer/helpdesk?apk=latest&version=2.1,1,QR Code,Fake soundbox sticker at kirana store,none,0,0,0,0
+http://zomato.net-banking.cf/wallet/topup,1,QR Code,Sticker inside public toilet payment box,"double_border,shadow_artifact",59,0,0,0
+https://ixigo.com/faq?ref=home,0,QR Code,Retail store POS counter,none,0,0,1,1
+https://airtel.in/credit-card?utm_source=app,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+https://irctc.co.in/about?utm_source=app,0,QR Code,Loyalty card mailer,none,0,0,1,1
+http://bonus-npci.xyz/kyc/aadhaar?survey=complete&earn=500,1,Micro QR,Sticker pasted over original QR at shop,"shadow_artifact,texture_discontinuity",72,0,0,0
+https://jio.com/deals,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+https://instamojo.com/home?ref=home,0,Micro QR,Hospital reception desk,none,0,0,1,1
+http://evil-domain.xyz@digilocker.gov.in/warning/action,1,Micro QR,Poster stuck on parking meter,none,0,0,0,0
+http://s.id/upi-send-money,1,Data Matrix,Pasted on electricity bill payment kiosk,"double_border,shadow_artifact",84,1,0,0
+http://incometax-official.in/netbanking/login,1,QR Code,Fake prize-claim poster at mall,"double_border,shadow_artifact",93,0,0,0
+https://p4ytm.cf/warning/action,1,Micro QR,QR code in unsolicited SMS,none,0,0,1,0
+https://bigbasket.com/settings,0,Micro QR,Parking meter,none,0,0,1,1
+http://tinyurl.com/sbi-kyc-alert,1,Micro QR,Pasted over hospital payment QR,none,0,0,0,0
+https://olamoney.com/upi-faqs,0,Micro QR,Airport check-in counter,none,0,1,1,1
+https://digitalindia.gov.in/offers/today,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+http://airtel.net-banking.live/loan/apply,1,QR Code,Poster stuck on parking meter,"shadow_artifact,texture_discontinuity",90,0,0,0
+https://jiopay.in/home?utm_source=app,0,QR Code,Hotel check-in desk,none,0,1,1,1
+http://goo.gl/win-prize-5000,1,QR Code,Sticker on restaurant table (original torn off),"double_border,shadow_artifact",61,0,0,0
+http://meesho-india.in.net/apk/download,1,QR Code,WhatsApp message from unknown number,shadow_artifact,61,0,0,0
+https://cesc.co.in/product/12345,0,QR Code,Parking meter,none,0,0,1,1
+http://tiny.one/income-tax-refund,1,Data Matrix,Poster stuck on parking meter,double_border,67,0,0,0
+http://is.gd/aadhaar-update-now,1,QR Code,Poster stuck on parking meter,none,0,0,0,0
+https://pnbindia.in/retail/login,0,QR Code,Parking meter,none,0,0,1,1
+https://meesho.com/gst-return?utm_source=app,0,QR Code,Parking meter,none,0,0,1,1
+http://bit.ly/irctc-cancel-refund,1,QR Code,Sticker inside public toilet payment box,texture_discontinuity,66,0,0,0
+http://secure-amazon.click/secure-login?refund=pending&bank=sbi,1,Micro QR,Sticker on restaurant table (original torn off),texture_discontinuity,62,0,0,0
+https://sw1ggy.live/kyc/aadhaar,1,Data Matrix,Fake government notice board sticker,"double_border,texture_discontinuity",85,0,1,0
+https://jiopay.in/api/v1/status?ref=home,0,QR Code,Loyalty card mailer,none,0,1,1,1
+http://rb.gy/free-recharge,1,Micro QR,WhatsApp message from unknown number,none,0,0,0,0
+http://v.gd/irctc-cancel-refund,1,Micro QR,Pasted over hospital payment QR,texture_discontinuity,69,0,0,0
+http://razorpay.net-banking.ml/alert/security,1,Data Matrix,Fake prize-claim poster at mall,texture_discontinuity,85,1,0,0
+http://bit.ly/airtel-cashback,1,Data Matrix,Email attachment from unknown sender,double_border,92,0,0,0
+http://z0mato.info/loan/apply,1,QR Code,Sticker on bus stop advertisement,none,0,0,0,0
+http://short.gy/sbi-kyc-alert,1,Data Matrix,Pamphlet distributed near ATM,none,0,0,0,0
+http://otp-epfo.top/wallet/topup?blocked=card&reason=fraud,1,Micro QR,Poster stuck on parking meter,none,0,0,0,0
+http://npci-india.site/support/chat,1,Data Matrix,Sticker inside public toilet payment box,none,0,0,0,0
+https://jio.com/settings?utm_source=app,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+http://s.id/apk-banking-update,1,Data Matrix,Fake prize-claim poster at mall,none,0,0,0,0
+http://tinyurl.com/hdfc-verify-now,1,Micro QR,QR code in unsolicited SMS,none,0,0,0,0
+http://gpay.net-banking.click/notice/compliance,1,QR Code,Fake government notice board sticker,"double_border,shadow_artifact",67,1,0,0
+http://10.0.0.79/update/download?session=expired&relogin=1,1,QR Code,Pasted over hospital payment QR,none,0,0,0,0
+http://axis.net-banking.loan/survey/complete,1,Micro QR,Fake government notice board sticker,texture_discontinuity,89,0,0,0
+http://short.gy/amazon-gift-claim,1,QR Code,Email attachment from unknown sender,"shadow_artifact,texture_discontinuity",57,0,0,0
+http://cutt.ly/airtel-cashback,1,Micro QR,WhatsApp message from unknown number,shadow_artifact,94,0,0,0
+http://razorpay.net-banking.co.in.xyz/loan/apply,1,Data Matrix,Email attachment from unknown sender,none,0,1,0,0
+http://paytm.net-banking.site/apk/download,1,Data Matrix,Sticker on bus stop advertisement,"shadow_artifact,texture_discontinuity",73,1,0,0
+https://yatra.com/login,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+https://idbibank.com/upi-faqs?ref=home,0,QR Code,Restaurant menu table tent,none,0,1,1,1
+https://swigy.click/update/download,1,Data Matrix,Fake prize-claim poster at mall,double_border,56,0,1,0
+https://digilocker.gov.in/product/12345?utm_source=app,0,QR Code,Cinema ticket kiosk,none,0,0,1,1
+http://1rctc.loan/update/download,1,QR Code,Pamphlet distributed near ATM,none,0,0,0,0
+http://is.gd/3xYzAb,1,Micro QR,Fake government notice board sticker,none,0,0,0,0
+https://indusind.com/retail/login?utm_source=app,0,QR Code,Parking meter,none,0,0,1,1
+http://irctcc.tk/customer/helpdesk,1,Data Matrix,Sticker on bus stop advertisement,shadow_artifact,58,0,0,0
+http://s.id/loan-approved-click,1,QR Code,Sticker over original parking QR,none,0,0,0,0
+https://microsoft.com/pay?ref=home,0,Micro QR,Airport check-in counter,none,0,1,1,1
+http://jio-india.live/care/ticket,1,QR Code,Fake government notice board sticker,double_border,70,0,0,0
+https://abhibus.com/about?ref=home,0,QR Code,Restaurant menu table tent,none,0,0,1,1
+http://tiny.one/gst-notice,1,QR Code,Sticker on restaurant table (original torn off),double_border,69,0,0,0
+https://bhimupi.org.in/checkout?utm_source=app,0,QR Code,Petrol pump payment terminal,none,0,1,1,1
+http://ow.ly/free-recharge,1,Micro QR,QR code in unsolicited SMS,none,0,0,0,0
+https://digitalindia.gov.in/contact?utm_source=app,0,Micro QR,Parking meter,none,0,0,1,1
+https://paytm.com/settings,0,Micro QR,Supermarket self-checkout,none,0,1,1,1
+https://freecharge.in/sale/diwali?ref=home,0,QR Code,Corporate ID badge,none,0,0,1,1
+http://192.168.1.161/refund/process?blocked=card&reason=fraud,1,QR Code,Email attachment from unknown sender,none,0,0,0,0
+http://tiny.one/upi-send-money,1,QR Code,Pamphlet distributed near ATM,none,0,1,0,0
+https://snapdeal.com/product/12345,0,QR Code,Official app onboarding screen,none,0,0,1,1
+http://10.0.0.40/netbanking/login?refund=pending&bank=sbi,1,Micro QR,QR code in unsolicited SMS,double_border,75,0,0,0
+https://epfindia.gov.in/api/v1/status,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://epfindia.gov.in/services,0,QR Code,Hospital reception desk,none,0,0,1,1
+http://kyc-uidai.org.in.top/emi/offer?otp=required&uid=user,1,QR Code,Fake government notice board sticker,"double_border,shadow_artifact",89,0,0,0
+https://digitalindia.gov.in/upi-faqs?ref=home,0,Micro QR,Hospital reception desk,none,0,1,1,1
+https://payumoney.com/web/home,0,Micro QR,Supermarket self-checkout,none,0,1,1,1
+https://redbus.in/dashboard,0,Micro QR,Parking meter,none,0,0,1,1
+https://mahadiscom.in/cart,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+https://sb1.online/upi/disabled,1,Data Matrix,Fake courier delivery slip,"shadow_artifact,texture_discontinuity",84,1,1,0
+https://meesho.com/deals?utm_source=app,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+https://olamoney.com/personal/home?utm_source=app,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+https://apple.com/web/home?utm_source=app,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+https://mahadiscom.in/web/home,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://portal.abhibus.com/tax/efiling,0,Micro QR,Parking meter,none,0,0,1,1
+http://win-jio.work/apk/download?session=expired&relogin=1,1,Data Matrix,Sticker pasted over original QR at shop,"double_border,shadow_artifact",82,0,0,0
+http://ow.ly/epfo-pf-claim,1,Micro QR,QR code in unsolicited SMS,none,0,0,0,0
+http://evil-domain.xyz@paypal.com/account/suspended,1,Micro QR,Email attachment from unknown sender,none,0,1,0,0
+https://jiomart.com/credit-card?ref=home,0,Micro QR,Parking meter,none,0,0,1,1
+https://yesbank.in/web/home?ref=home,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+https://torrentpower.com/?ref=home,0,Micro QR,Corporate ID badge,none,0,0,1,1
+https://icicibank.com/upi-faqs,0,Micro QR,Official app onboarding screen,none,0,1,1,1
+https://irctc.co.in/offers/today?ref=home,0,Micro QR,Parking meter,none,0,0,1,1
+http://ow.ly/gst-notice,1,Micro QR,Sticker pasted over original QR at shop,"double_border,shadow_artifact",90,0,0,0
+https://axisbank.com/retail/login,0,QR Code,Airport check-in counter,none,0,0,1,1
+https://mobikwik.com/deals?utm_source=app,0,QR Code,Hospital reception desk,none,0,0,1,1
+https://meesho.com/api/v1/status?utm_source=app,0,Micro QR,Retail store POS counter,none,0,0,1,1
+http://short.gy/irctc-cancel-refund,1,Micro QR,Email attachment from unknown sender,shadow_artifact,69,0,0,0
+http://paytm-official.in/netbanking/login,1,Micro QR,Email attachment from unknown sender,"double_border,texture_discontinuity",76,1,0,0
+https://digilocker.gov.in/account?ref=home,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+https://rblbank.com/settings?ref=home,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+https://stackoverflow.com/cart,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+http://ow.ly/airtel-cashback,1,QR Code,Fake soundbox sticker at kirana store,none,0,0,0,0
+https://axisbank.com/faq?ref=home,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+https://nykaa.com/tax/efiling?utm_source=app,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+http://www.sbi-portal.com/upi/disabled,1,Data Matrix,Fake courier delivery slip,none,0,1,0,0
+http://airtel-official.in/aadhaar-verify,1,QR Code,Pasted over hospital payment QR,"shadow_artifact,texture_discontinuity",64,0,0,0
+https://federalbank.co.in/deals?ref=home,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+https://ixigo.com/cart,0,QR Code,Official app onboarding screen,none,0,0,1,1
+https://ajio.com/offers/today,0,Micro QR,Hospital reception desk,none,0,0,1,1
+http://cutt.ly/otp-confirm,1,Micro QR,Fake prize-claim poster at mall,double_border,87,0,0,0
+http://jio.net-banking.site/recharge/free,1,Micro QR,Email attachment from unknown sender,double_border,95,0,0,0
+http://nykaa-india.co.in.xyz/gift/redeem,1,Micro QR,Sticker inside public toilet payment box,"double_border,texture_discontinuity",69,0,0,0
+https://torrentpower.com/contact?ref=home,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+http://1cici.ga/recharge/free,1,Data Matrix,Fake prize-claim poster at mall,none,0,0,0,0
+http://tinyurl.com/amazon-gift-claim,1,QR Code,WhatsApp message from unknown number,shadow_artifact,64,0,0,0
+https://makemytrip.com/tax/efiling?utm_source=app,0,Micro QR,Retail store POS counter,none,0,0,1,1
+https://flipkart.com/reservations?ref=home,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+http://real-meesho.click/wallet/topup?blocked=card&reason=fraud,1,Data Matrix,Poster stuck on parking meter,"double_border,shadow_artifact",62,0,0,0
+http://epfo.net-banking.xyz/pan-upload,1,Micro QR,QR code in unsolicited SMS,double_border,70,0,0,0
+http://s.id/sbi-kyc-alert,1,Micro QR,WhatsApp message from unknown number,double_border,86,0,0,0
+https://torrentpower.com/offers/today?ref=home,0,QR Code,Loyalty card mailer,none,0,0,1,1
+https://flipkart.com/table/45?utm_source=app,0,Micro QR,Corporate ID badge,none,0,0,1,1
+https://cesc.co.in/login?ref=home,0,QR Code,Hospital reception desk,none,0,0,1,1
+http://goo.gl/apk-banking-update,1,Data Matrix,Fake courier delivery slip,"shadow_artifact,texture_discontinuity",79,0,0,0
+http://cutt.ly/vi-reward,1,Micro QR,Sticker pasted over original QR at shop,"double_border,texture_discontinuity",76,0,0,0
+https://rapido.bike/restaurant/menu?ref=home,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+http://cashback-swiggy.xyz/warning/action?otp=required&uid=user,1,QR Code,Sticker on bus stop advertisement,texture_discontinuity,80,0,0,0
+http://suspend-bsnl.pw/credit/approve?refund=pending&bank=sbi,1,Data Matrix,Poster stuck on parking meter,"shadow_artifact,texture_discontinuity",64,0,0,0
+https://dcbbank.com/profile?ref=home,0,QR Code,Printed product packaging,none,0,0,1,1
+https://app.uber.com/help,0,QR Code,Hospital reception desk,none,0,0,1,1
+http://www.nykaa-portal.com/pay/reward,1,Micro QR,Pamphlet distributed near ATM,"double_border,texture_discontinuity",79,1,0,0
+https://airtel.in/web/home,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+https://indusind.com/deals,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+http://t.co/income-tax-refund,1,Data Matrix,Sticker on bus stop advertisement,none,0,0,0,0
+http://tinyurl.com/irctc-cancel-refund,1,Data Matrix,Sticker on bus stop advertisement,none,0,0,0,0
+http://172.16.0.76/win-prize/claim?action=verify&token=abc123,1,Data Matrix,Sticker over original parking QR,double_border,89,0,0,0
+https://github.com/restaurant/menu?ref=home,0,QR Code,Retail store POS counter,none,0,0,1,1
+https://bankofbaroda.in/contact,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+https://bhimupi.org.in/order/track?utm_source=app,0,QR Code,Hospital reception desk,none,0,1,1,1
+http://helpdesk-amazon.ga/app/install?kyc=pending&deadline=today,1,Data Matrix,Fake government notice board sticker,none,0,0,0,0
+https://mca.gov.in/settings?ref=home,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+https://relianceretail.com/netbanking?utm_source=app,0,Micro QR,Parking meter,none,0,0,1,1
+http://amazon-secure-verify-otp-update.co.in.xyz/kyc-update/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,1,Data Matrix,Poster stuck on parking meter,"double_border,shadow_artifact",95,0,0,0
+https://redbus.in/table/45?utm_source=app,0,QR Code,Airport check-in counter,none,0,0,1,1
+http://s.id/irctc-cancel-refund,1,Data Matrix,Pasted on electricity bill payment kiosk,"double_border,shadow_artifact,texture_discontinuity",75,0,0,0
+https://meesho.com/pay,0,Micro QR,Loyalty card mailer,none,0,1,1,1
+https://swiggy.com/deals,0,Micro QR,Airport check-in counter,none,0,0,1,1
+http://axis-official.in/account/suspended,1,QR Code,Pasted on electricity bill payment kiosk,none,0,0,0,0
+https://amaz0n.site/netbanking/login,1,Micro QR,WhatsApp message from unknown number,"shadow_artifact,texture_discontinuity",91,0,1,0
+http://zomato-india.cf/survey/complete,1,Data Matrix,Pamphlet distributed near ATM,"double_border,texture_discontinuity",66,0,0,0
+https://zomato.com/contact?utm_source=app,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+https://payumoney.com/offers/today?ref=home,0,QR Code,Bank branch ATM lobby,none,0,1,1,1
+https://meesho.com/sale/diwali,0,Micro QR,Corporate ID badge,none,0,0,1,1
+http://short.gy/epfo-pf-claim,1,Micro QR,Poster stuck on parking meter,shadow_artifact,62,0,0,0
+https://kotak.com/tax/efiling?ref=home,0,Micro QR,Retail store POS counter,none,0,0,1,1
+http://ow.ly/aadhaar-update-now,1,Micro QR,Poster stuck on parking meter,"shadow_artifact,texture_discontinuity",68,0,0,0
+https://federalbank.co.in/contact?utm_source=app,0,Micro QR,Corporate ID badge,none,0,0,1,1
+https://snapdeal.com/upi-faqs,0,Micro QR,Restaurant menu table tent,none,0,1,1,1
+https://sbi.co.in/help,0,Micro QR,Retail store POS counter,none,0,0,1,1
+https://paypal.com/gst-return?ref=home,0,Micro QR,Airport check-in counter,none,0,1,1,1
+https://relianceretail.com/booking?ref=home,0,QR Code,Corporate ID badge,none,0,0,1,1
+http://5bi.site/app/install,1,QR Code,Poster stuck on parking meter,double_border,55,0,0,0
+http://hdfc.net-banking.xyz/lucky-draw/enter,1,Data Matrix,Sticker on bus stop advertisement,"double_border,texture_discontinuity",73,0,0,0
+https://zepto.com/settings,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+https://yesbank.in/profile,0,Micro QR,Printed product packaging,none,0,0,1,1
+http://goo.gl/airtel-cashback,1,Micro QR,Sticker on bus stop advertisement,"double_border,shadow_artifact",64,0,0,0
+https://india.gov.in/deals?ref=home,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+http://irctc.net-banking.live/kyc-update,1,QR Code,Sticker on bus stop advertisement,"double_border,texture_discontinuity",61,0,0,0
+http://trusted-bsnl.info/kyc/aadhaar?survey=complete&earn=500,1,Micro QR,Poster stuck on parking meter,"double_border,shadow_artifact,texture_discontinuity",76,0,0,0
+https://google.com/home?ref=home,0,QR Code,Corporate ID badge,none,0,0,1,1
+https://ph0nepe.tk/booking/verify,1,Micro QR,Sticker on bus stop advertisement,shadow_artifact,68,0,1,0
+https://bsesdelhi.com/settings?utm_source=app,0,QR Code,Printed product packaging,none,0,0,1,1
+http://172.16.0.27/cashback/get?action=verify&token=abc123,1,Micro QR,Email attachment from unknown sender,"shadow_artifact,texture_discontinuity",94,0,0,0
+http://user:pass@digilocker.gov.in.fake.top/warning/action,1,Micro QR,QR code in unsolicited SMS,"shadow_artifact,texture_discontinuity",61,0,0,0
+http://s.id/emi-offer,1,QR Code,WhatsApp message from unknown number,none,0,0,0,0
+https://paytm.com/faq,0,Micro QR,Corporate ID badge,none,0,1,1,1
+http://uidai-india.work/aadhaar-verify,1,Micro QR,Sticker on restaurant table (original torn off),texture_discontinuity,68,0,0,0
+http://flipkart.net-banking.work/pay/reward,1,Data Matrix,Pamphlet distributed near ATM,"shadow_artifact,texture_discontinuity",65,1,0,0
+http://rb.gy/aadhaar-update-now,1,Micro QR,Fake soundbox sticker at kirana store,none,0,0,0,0
+http://sbi-online.gq/cashback/get,1,Micro QR,Sticker pasted over original QR at shop,shadow_artifact,72,0,0,0
+https://blinkit.com/gst-return?utm_source=app,0,Micro QR,Restaurant menu table tent,none,0,0,1,1
+http://172.16.0.227/emi/offer?otp=required&uid=user,1,Micro QR,Pasted on electricity bill payment kiosk,double_border,94,0,0,0
+http://goo.gl/otp-confirm,1,Data Matrix,Fake prize-claim poster at mall,none,0,0,0,0
+http://short.gy/hdfc-verify-now,1,Micro QR,Fake prize-claim poster at mall,none,0,0,0,0
+https://cleartrip.com/product/12345,0,QR Code,Cinema ticket kiosk,none,0,0,1,1
+https://bhimupi.org.in/about?utm_source=app,0,QR Code,Airport check-in counter,none,0,1,1,1
+https://tatacliq.com/account,0,QR Code,Cinema ticket kiosk,none,0,0,1,1
+http://swiggy-official.in/refund/process,1,QR Code,WhatsApp message from unknown number,double_border,80,0,0,0
+https://uidai.gov.in/booking?utm_source=app,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+http://secure.account.verify.epfo.in.net/booking/verify,1,QR Code,Pamphlet distributed near ATM,none,0,0,0,0
+https://msedcl.com/product/12345,0,QR Code,Official app onboarding screen,none,0,0,1,1
+http://short.gy/flipkart-lucky,1,Data Matrix,Sticker inside public toilet payment box,"double_border,shadow_artifact",61,0,0,0
+http://incometax-india.xyz/upi/claim,1,Data Matrix,Sticker on bus stop advertisement,none,0,1,0,0
+http://ow.ly/otp-confirm,1,QR Code,Fake prize-claim poster at mall,none,0,0,0,0
+http://rb.gy/3xYzAb,1,Micro QR,Poster stuck on parking meter,"double_border,shadow_artifact",57,0,0,0
+http://aadhaar-npci.info/kyc/aadhaar?aadhaar=required&pan=required,1,Data Matrix,Pamphlet distributed near ATM,none,0,0,0,0
+https://apple.com/faq?utm_source=app,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+http://secure-axis.store/document/upload?otp=required&uid=user,1,Data Matrix,Sticker on restaurant table (original torn off),texture_discontinuity,67,0,0,0
+https://nhp.gov.in/contact,0,QR Code,Corporate ID badge,none,0,0,1,1
+https://zomato.com/dashboard?utm_source=app,0,QR Code,Loyalty card mailer,none,0,0,1,1
+https://blinkit.com/personal/home?ref=home,0,QR Code,Official app onboarding screen,none,0,0,1,1
+https://tatacliq.com/pay?ref=home,0,QR Code,Government office notice board,none,0,1,1,1
+http://evil-domain.xyz@epfindia.gov.in/cashback/get,1,QR Code,Pasted over hospital payment QR,none,0,0,0,0
+http://cutt.ly/apk-banking-update,1,Micro QR,Fake courier delivery slip,shadow_artifact,84,0,0,0
+https://bsesdelhi.com/pay?utm_source=app,0,Micro QR,Parking meter,none,0,1,1,1
+http://192.168.1.154/secure-login?kyc=pending&deadline=today,1,Micro QR,Pasted on electricity bill payment kiosk,none,0,0,0,0
+https://freecharge.in/help?utm_source=app,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+http://www.uidai-portal.com/credit/approve,1,Data Matrix,Sticker over original parking QR,none,0,0,0,0
+https://corp.google.com/savings,0,Micro QR,Hospital reception desk,none,0,0,1,1
+https://bigbasket.com/faq,0,QR Code,Parking meter,none,0,0,1,1
+https://ixigo.com/deals,0,QR Code,Loyalty card mailer,none,0,0,1,1
+http://customer-airtel.live/win-prize/claim?kyc=pending&deadline=today,1,Data Matrix,Email attachment from unknown sender,none,0,0,0,0
+https://swiggy-offer.ml/netbanking/login,1,Micro QR,Sticker pasted over original QR at shop,"double_border,shadow_artifact",62,0,1,0
+https://rblbank.com/sale/diwali?utm_source=app,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+https://phone-pe.store/refund/process,1,QR Code,Sticker pasted over original QR at shop,"double_border,shadow_artifact,texture_discontinuity",68,0,1,0
+http://flipkart-india.biz/rate/earn,1,Micro QR,Sticker inside public toilet payment box,"double_border,texture_discontinuity",97,0,0,0
+http://is.gd/gst-notice,1,Data Matrix,Pasted over hospital payment QR,none,0,0,0,0
+http://s.id/hdfc-verify-now,1,Micro QR,Sticker over original parking QR,none,0,0,0,0
+http://lucky-uidai.ga/rate/earn?apk=latest&version=2.1,1,Micro QR,Pamphlet distributed near ATM,"double_border,shadow_artifact",79,0,0,0
+https://github.com/profile,0,QR Code,Printed product packaging,none,0,0,1,1
+http://phone-pe.store/refund/process,1,QR Code,Sticker inside public toilet payment box,none,0,0,0,0
+http://airtel-india.click/support/chat,1,Data Matrix,Sticker pasted over original QR at shop,shadow_artifact,63,0,0,0
+https://cashfree.com/contact?ref=home,0,QR Code,Corporate ID badge,none,0,0,1,1
+https://unionbankofindia.co.in/gst-return,0,QR Code,Retail store POS counter,none,0,0,1,1
+http://axis.net-banking.work/feedback/reward,1,Data Matrix,Fake government notice board sticker,"shadow_artifact,texture_discontinuity",59,0,0,0
+https://linkedin.com/profile?utm_source=app,0,QR Code,Printed product packaging,none,0,0,1,1
+http://t.co/free-recharge,1,QR Code,Sticker on restaurant table (original torn off),"double_border,shadow_artifact,texture_discontinuity",69,0,0,0
+http://incometax.net-banking.pw/emi/offer,1,Micro QR,Pamphlet distributed near ATM,"double_border,shadow_artifact,texture_discontinuity",65,0,0,0
+http://s.id/otp-confirm,1,Data Matrix,QR code in unsolicited SMS,none,0,0,0,0
+http://v.gd/epfo-pf-claim,1,Data Matrix,Fake courier delivery slip,shadow_artifact,69,0,0,0
+http://cutt.ly/sbi-kyc-alert,1,Micro QR,Fake soundbox sticker at kirana store,"shadow_artifact,texture_discontinuity",77,0,0,0
+https://hdfcbank.com/home,0,Micro QR,Printed product packaging,none,0,0,1,1
+http://s.id/aadhaar-update-now,1,Data Matrix,Sticker pasted over original QR at shop,"shadow_artifact,texture_discontinuity",58,0,0,0
+http://evil-domain.xyz@amazonpay.in/secure-login,1,Data Matrix,Pasted over hospital payment QR,double_border,93,1,0,0
+http://user:pass@stackoverflow.com.fake.top/recharge/free,1,QR Code,QR code in unsolicited SMS,none,0,0,0,0
+http://short.gy/income-tax-refund,1,QR Code,Pasted on electricity bill payment kiosk,"double_border,shadow_artifact,texture_discontinuity",82,0,0,0
+http://buff.ly/free-recharge,1,QR Code,Sticker pasted over original QR at shop,"double_border,shadow_artifact,texture_discontinuity",79,0,0,0
+http://uidai.net-banking.work/aadhaar-verify,1,QR Code,Sticker inside public toilet payment box,double_border,67,0,0,0
+http://account-amazon.org.in.top/win-prize/claim?apk=latest&version=2.1,1,Micro QR,Fake soundbox sticker at kirana store,"double_border,texture_discontinuity",66,0,0,0
+http://v.gd/jio-recharge-free,1,Micro QR,Email attachment from unknown sender,"double_border,texture_discontinuity",83,0,0,0
+http://buff.ly/amazon-gift-claim,1,Micro QR,Fake soundbox sticker at kirana store,"double_border,texture_discontinuity",55,0,0,0
+http://203.0.113.226/lucky-draw/enter?ref=prize&id=WIN9999,1,Micro QR,Pamphlet distributed near ATM,double_border,79,0,0,0
+https://amazonpay.in/contact?utm_source=app,0,Micro QR,Parking meter,none,0,1,1,1
+https://retail.instamojo.com/netbanking,0,Micro QR,Parking meter,none,0,0,1,1
+https://amazon.in/upi-faqs?utm_source=app,0,QR Code,Cinema ticket kiosk,none,0,1,1,1
+http://v.gd/win-prize-5000,1,Micro QR,Sticker on bus stop advertisement,"shadow_artifact,texture_discontinuity",63,0,0,0
+http://support-flipkart.biz/kyc/aadhaar?otp=required&uid=user,1,Data Matrix,Sticker on restaurant table (original torn off),"double_border,shadow_artifact,texture_discontinuity",92,0,0,0
+https://npci.org.in/personal/home?utm_source=app,0,Micro QR,Hospital reception desk,none,0,0,1,1
+https://bescom.org/help,0,QR Code,Bus/railway ticket window,none,0,0,1,1
+https://phonepe.com/deals?ref=home,0,QR Code,Government office notice board,none,0,0,1,1
+https://makemytrip.com/settings,0,QR Code,Hotel check-in desk,none,0,0,1,1
+https://zomato.com/booking,0,Micro QR,Parking meter,none,0,0,1,1
+http://short.gy/free-recharge,1,Micro QR,WhatsApp message from unknown number,texture_discontinuity,60,0,0,0
+http://nykaa-india.net.in/gift/redeem,1,Micro QR,Sticker on bus stop advertisement,"double_border,shadow_artifact",95,0,0,0
+http://evil-domain.xyz@makemytrip.com/aadhaar-verify,1,Micro QR,WhatsApp message from unknown number,"double_border,texture_discontinuity",73,0,0,0
+https://snapdeal.com/help?ref=home,0,Micro QR,Parking meter,none,0,0,1,1
+http://bsnl-india.ga/document/upload,1,Micro QR,Fake courier delivery slip,"double_border,shadow_artifact,texture_discontinuity",86,0,0,0
+https://zomato.com/credit-card,0,Micro QR,Airport check-in counter,none,0,0,1,1
+https://airtelbank.com/contact,0,QR Code,Printed product packaging,none,0,0,1,1
+https://bankofbaroda.in/web/home,0,QR Code,Corporate ID badge,none,0,0,1,1
+http://192.168.1.241/notice/compliance?blocked=card&reason=fraud,1,Micro QR,Pamphlet distributed near ATM,"double_border,shadow_artifact,texture_discontinuity",86,0,0,0
+https://nhp.gov.in/checkout,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+https://goibibo.com/services,0,Micro QR,Printed product packaging,none,0,0,1,1
+https://stackoverflow.com/tax/efiling?utm_source=app,0,Micro QR,Hospital reception desk,none,0,0,1,1
+http://login.update.kyc.paytm.in.in.net/apk/download,1,Data Matrix,Pamphlet distributed near ATM,"double_border,shadow_artifact",66,1,0,0
+https://abhibus.com/pay?ref=home,0,Micro QR,Petrol pump payment terminal,none,0,1,1,1
+http://evil-domain.xyz@mca.gov.in/booking/verify,1,Data Matrix,QR code in unsolicited SMS,none,0,0,0,0
+http://t.co/jio-recharge-free,1,Micro QR,Sticker pasted over original QR at shop,"double_border,shadow_artifact,texture_discontinuity",73,0,0,0
+https://passport.gov.in/restaurant/menu,0,Micro QR,Government office notice board,none,0,0,1,1
+http://swiggy.net-banking.cf/gift/redeem,1,QR Code,Sticker over original parking QR,shadow_artifact,96,0,0,0
+https://mca.gov.in/offers/today,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+https://pay.phonepe.com/upi-faqs,0,QR Code,Printed product packaging,none,0,1,1,1
+http://safe-hdfc.info/secure-login?session=expired&relogin=1,1,QR Code,Sticker on restaurant table (original torn off),none,0,0,0,0
+https://bankofindia.co.in/gst-return,0,QR Code,Corporate ID badge,none,0,0,1,1
+https://rblbank.com/contact?utm_source=app,0,Micro QR,Bus/railway ticket window,none,0,0,1,1
+https://rblbank.com/gst-return?ref=home,0,QR Code,Government office notice board,none,0,0,1,1
+http://cutt.ly/loan-approved-click,1,QR Code,Sticker pasted over original QR at shop,none,0,0,0,0
+https://jiomart.com/profile,0,Micro QR,Retail store POS counter,none,0,0,1,1
+http://cutt.ly/upi-send-money,1,Micro QR,Fake courier delivery slip,"double_border,shadow_artifact",72,1,0,0
+http://goo.gl/flipkart-lucky,1,Data Matrix,Sticker inside public toilet payment box,"double_border,texture_discontinuity",74,0,0,0
+http://tiny.one/free-recharge,1,Micro QR,Pamphlet distributed near ATM,none,0,0,0,0
+http://buff.ly/gst-notice,1,QR Code,Email attachment from unknown sender,"double_border,texture_discontinuity",91,0,0,0
+https://amazonpay.in/upi-faqs?ref=home,0,Micro QR,Official app onboarding screen,none,0,1,1,1
+https://icic1.pw/otp-confirm,1,QR Code,Fake soundbox sticker at kirana store,texture_discontinuity,62,0,1,0
+https://federalbank.co.in/restaurant/menu,0,Micro QR,Petrol pump payment terminal,none,0,0,1,1
+https://m.vi.in/restaurant/menu,0,QR Code,Cinema ticket kiosk,none,0,0,1,1
+https://nykaa.com/web/home?ref=home,0,Micro QR,Official app onboarding screen,none,0,0,1,1
+https://cleartrip.com/cart,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+https://uber.com/reservations,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+http://npci-india.live/app/install,1,QR Code,Fake courier delivery slip,"double_border,shadow_artifact",68,0,0,0
+https://apple.com/retail/login,0,QR Code,Hotel check-in desk,none,0,0,1,1
+https://freecharge.in/restaurant/menu?ref=home,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+https://myntra.com/netbanking?utm_source=app,0,Micro QR,Hotel check-in desk,none,0,0,1,1
+http://10.0.0.123/aadhaar-verify?action=verify&token=abc123,1,Data Matrix,Sticker pasted over original QR at shop,double_border,81,0,0,0
+http://rb.gy/emi-offer,1,Micro QR,Pasted on electricity bill payment kiosk,none,0,0,0,0
+http://login.update.kyc.axis.in.click/cashback/get,1,Micro QR,Poster stuck on parking meter,double_border,81,0,0,0
+https://vi.in/offers/today?utm_source=app,0,Micro QR,Printed product packaging,none,0,0,1,1
+https://flipkart.com/merchant?ref=home,0,QR Code,Loyalty card mailer,none,0,0,1,1
+https://npci.org.in/deals?utm_source=app,0,Micro QR,Hospital reception desk,none,0,0,1,1
+https://www.bigbasket.com/cart,0,QR Code,Government office notice board,none,0,0,1,1
+https://linkedin.com/order?ref=home,0,QR Code,Airport check-in counter,none,0,0,1,1
+https://apple.com/help?utm_source=app,0,Micro QR,Loyalty card mailer,none,0,0,1,1
+http://secure.account.verify.hdfc.top/pay/reward,1,Data Matrix,Poster stuck on parking meter,none,0,1,0,0
+https://airtel.in/help,0,QR Code,Petrol pump payment terminal,none,0,0,1,1
+http://secure.account.verify.flipkart.cf/aadhaar-verify,1,Data Matrix,Sticker on restaurant table (original torn off),none,0,0,0,0
+http://198.51.100.22/care/ticket?otp=required&uid=user,1,Micro QR,Fake soundbox sticker at kirana store,none,0,0,0,0
+https://m.bsnl.co.in/sale/diwali,0,QR Code,Official app onboarding screen,none,0,0,1,1
+https://m.bankofbaroda.in/account,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+https://kotak.com/personal/home,0,Micro QR,Cinema ticket kiosk,none,0,0,1,1
+http://cutt.ly/flipkart-lucky,1,Data Matrix,Pamphlet distributed near ATM,"double_border,shadow_artifact",56,0,0,0
+https://jiopay.in/checkout?utm_source=app,0,Micro QR,Bank branch ATM lobby,none,0,1,1,1
+http://cutt.ly/3xYzAb,1,Micro QR,Pamphlet distributed near ATM,none,0,0,0,0
+https://meesho.com/faq?ref=home,0,QR Code,Retail store POS counter,none,0,0,1,1
+http://is.gd/jio-recharge-free,1,Micro QR,Fake government notice board sticker,none,0,0,0,0
+https://mca.gov.in/netbanking?ref=home,0,QR Code,Parking meter,none,0,0,1,1
+http://incometax-india.store/netbanking/login,1,Data Matrix,QR code in unsolicited SMS,"double_border,shadow_artifact",60,0,0,0
+https://zepto.com/order/track,0,QR Code,Corporate ID badge,none,0,0,1,1
+https://jiomart.com/retail/login?ref=home,0,Micro QR,Government office notice board,none,0,0,1,1
+https://apple.com/portal?utm_source=app,0,QR Code,Retail store POS counter,none,0,0,1,1
+http://offer-incometax.cf/care/ticket?reward=5000&claim=now,1,QR Code,Fake courier delivery slip,double_border,74,0,0,0
+https://bsnl.co.in/portal?ref=home,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+https://ixigo.com/account?utm_source=app,0,QR Code,Printed product packaging,none,0,0,1,1
+https://apple.com/sale/diwali,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+https://mahadiscom.in/personal/home?ref=home,0,QR Code,Restaurant menu table tent,none,0,0,1,1
+https://relianceretail.com/tax/efiling?ref=home,0,QR Code,Hotel check-in desk,none,0,0,1,1
+http://rb.gy/paytm-reward,1,Data Matrix,Fake courier delivery slip,"double_border,shadow_artifact,texture_discontinuity",90,1,0,0
+http://203.0.113.236/upi/claim?survey=complete&earn=500,1,Data Matrix,QR code in unsolicited SMS,"shadow_artifact,texture_discontinuity",72,1,0,0
+https://bankofindia.co.in/api/v1/status,0,QR Code,Supermarket self-checkout,none,0,0,1,1
+https://federalbank.co.in/netbanking?utm_source=app,0,Micro QR,Supermarket self-checkout,none,0,0,1,1
+http://cancel-hdfc.online/otp-confirm?ref=prize&id=WIN9999,1,Data Matrix,Email attachment from unknown sender,none,0,0,0,0
+http://cutt.ly/emi-offer,1,QR Code,Pamphlet distributed near ATM,none,0,0,0,0
+https://cleartrip.com/booking?utm_source=app,0,Micro QR,Bank branch ATM lobby,none,0,0,1,1
+https://kotak.com/savings?utm_source=app,0,QR Code,Bank branch ATM lobby,none,0,0,1,1
+https://jiomart.com/dashboard,0,QR Code,Printed product packaging,none,0,0,1,1
+http://alert-paytm.biz/otp-confirm?apk=latest&version=2.1,1,QR Code,Pasted on electricity bill payment kiosk,"double_border,shadow_artifact",59,1,0,0
+https://phonepe.com/portal,0,Micro QR,Retail store POS counter,none,0,0,1,1
